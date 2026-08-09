@@ -39,8 +39,7 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
 </p>
 
 ### Keesoku Band
-<img src="https://shields.io" alt="WhatsApp" />
-
-<!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
+
+### 2026 GITHUB PROFILE BY RAZI HAFITZ ###
 
