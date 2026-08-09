@@ -37,7 +37,7 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 <td width="50%" valign="top">
 
 ### 🔭 Saat ini saya:
-- 🌱 PKL di **Diskominfo Balikpapan**
+- 🌱 Saya Bersedia Menjadi Full Stack Dev Di **Diskominfo Balikpapan**
 - 📚 Belajar **Laravel 11** & **PostgreSQL**
 - 💻 Fokus bikin website yang keren
 
