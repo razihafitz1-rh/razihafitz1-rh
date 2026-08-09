@@ -1,4 +1,4 @@
-# Hi there!,I'm Razi Hafitz! 👋 
+# Hi there!,I'm Razi👋 
 ### 🚀 Full Stack Developer Junior 
 ### Kalimantan Timur√
 
