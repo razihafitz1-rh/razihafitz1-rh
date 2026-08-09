@@ -13,9 +13,8 @@
 
 ---
 
-### 🎸 Kessoku Band Performance
-<p align="left">
-  <video src=Keesokuband.mp4" width="600px" controls></video>
-</p>
+### I love Nijika
+
+---
 
 
