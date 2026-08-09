@@ -81,7 +81,8 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 ---
 
 ### 🎵 Keesoku Band
-https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
+<video src="Keesokuband.mp4" width="100%" controls></video>
+
 ---
 
 <p align="center">
