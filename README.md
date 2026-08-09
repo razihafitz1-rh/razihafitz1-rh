@@ -3,7 +3,7 @@
   <img src="https://githubusercontent.com" alt="Pacman Graph" width="100%" />
 </p>
 
-# <img src="https://giphy.com" width="30px"> Hi there!, I'm Razi 👋 
+<img src="https://giphy.com" width="30px"> Hi there!, I'm Razi 👋 
 
 <p align="left">
   <img src="https://shields.io" />
