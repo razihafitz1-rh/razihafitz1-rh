@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Raz! 👋 
+### 🚀 Full Stack Developer Junior | Based in Balikpapan
 
-<!--
-**razihafitz1-rh/razihafitz1-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me
+- 🔭 **Sedang fokus pada:** Pengembangan aplikasi web Full Stack (Frontend & Backend).
+- 📍 **Lokasi:** Balikpapan, Indonesia.
+- 🎯 **Hobi:** Mengoleksi proyek web menarik dan Melatih Kemampuan Public Speaking.
+- ⚡ **Fun Fact:** Suka belajar tentang web dan aplikasi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+<p align="left">
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Raz's GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+</p>
