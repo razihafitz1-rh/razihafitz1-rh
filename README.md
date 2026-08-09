@@ -48,7 +48,7 @@ Silakan hubungi saya melalui kontak di bawah ini:
     <img src="https://shields.io" alt="Gmail" />
   </a>
   <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io[#E4405F]?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://shields.io" alt="Instagram" />
   </a>
   <a href="https://wa.me" target="_blank">
     <img src="https://shields.io" alt="WhatsApp" />
