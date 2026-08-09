@@ -14,7 +14,7 @@ Saya adalah Razi Hafitz. Saat ini saya sedang menempuh pendidikan di SMKN 2 Bali
 ---
 
 ### 🛠️ Tech Stack & Tools
-Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi:
+Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi Dan Website:
 
 #### 🎨 Frontend Development
 <p align="left">
