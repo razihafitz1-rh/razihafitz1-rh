@@ -51,5 +51,5 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
 ### Keesoku Band
 
 <!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
-https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
+https://github.com/razihafitz1-rh/raz-sosmed/issues/2#issuecomment-5229938271
 
