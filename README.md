@@ -5,8 +5,8 @@
 Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 2 Balikpapan (SMKN2BPPN)** Kelas **XI-RPL**.
 
 * 🔭 **Sedang fokus pada:** Pengembangan aplikasi dan website (Web & Mobile Development)
-* 🎯 **Hobi:** Bermain game 🎮 dan ngoding membuat website 💻
-* ⚡ **Fun Fact:** Selalu penasaran dan suka mengeksplorasi hal-hal baru seputar dunia teknologi
+* 🎯 **Hobi:** Bermain game dan ngoding membuat website 
+* ⚡ **Explorasi:** Selalu penasaran dan suka mengeksplorasi hal-hal baru seputar dunia teknologi
 
 ---
 
