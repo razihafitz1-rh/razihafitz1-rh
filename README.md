@@ -40,6 +40,7 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 <picture>
+
   
 
 
@@ -47,7 +48,10 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
 
 ### Keesoku Band
 
-<!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
+
+---
+PROFIL GITHUB RAZI HAFITZ
+---
 
 
