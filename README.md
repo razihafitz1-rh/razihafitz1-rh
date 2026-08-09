@@ -32,6 +32,15 @@ https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 ---
 
+### 🕹️ Mini Games & Fun Stuff
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+* Cek repositori proyek latihan web saya untuk memainkan mini game sederhana seperti **Snake** dan **Pac-Man** berbasis JavaScript!
+
+---
+
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&theme=radical" alt="Razi's GitHub Stats" />
