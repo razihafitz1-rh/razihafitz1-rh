@@ -10,8 +10,7 @@ Saya adalah Razi Hafitz Saat Ini sedang menempuh pendidikan di SMKN2BPPN Kelas X
 ### Pengembangan aplikasi dan website 
 - 📍 **Lokasi:**
   Balikpapan, Indonesia.
-- 🎯 **Hobi:**
-### Mengoleksi proyek web menarik dan   Melatih Kemampuan Public Speaking.
+- 🎯 **Hobi:** Main Game Dan buat Website
 - ⚡ **Fun Fact:**
 ### Suka belajar tentang web dan aplikasi.
 
