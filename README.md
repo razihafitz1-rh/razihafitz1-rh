@@ -19,7 +19,7 @@ Saya adalah Razi Hafitz Saat Ini sedang menempuh pendidikan di SMKN2BPPN Kelas X
 ---
 
 ### I love Nijika:3
-
+https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 ---
 
 
