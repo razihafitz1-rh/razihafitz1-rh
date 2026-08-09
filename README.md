@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFAA00&height=200&section=header&text=Razi%20Hafitz&fontSize=40&fontColor=0a0a0a&animation=twinkling&textAlignY=35&desc=Junior%20Web%20Developer&descSize=18&descAlignY=55" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Halo!;Saya+Razi+Hafitz;Siswa+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Backend+%26+Frontend+Lover" alt="Typing SVG" />
 
