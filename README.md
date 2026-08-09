@@ -32,12 +32,16 @@ https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 ---
 
-### 🕹️ Mini Games & Fun Stuff
+### 🕹️ Mini Games & Contribution Animation
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
-* Cek repositori proyek latihan web saya untuk memainkan mini game sederhana seperti **Snake** dan **Pac-Man** berbasis JavaScript!
+* Selain Pac-Man di atas, saya juga suka bereksperimen dengan animasi grafik kontribusi menggunakan Snake dan mini game berbasis JavaScript!
 
 ---
 
