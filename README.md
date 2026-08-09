@@ -1,21 +1,30 @@
-# Hi there!, I'm Razi 👋 
-### 🚀 Full Stack Developer Junior 
-### 📍 Kalimantan Timur, Indonesia
+<!-- Bagian Animasi Pac-Man Kontribusi GitHub -->
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Pacman Graph" width="100%" />
+</p>
 
----
+# <img src="https://giphy.com" width="30px"> Hi there!, I'm Razi 👋 
+
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
 
 ### 👤 About Me
-Saya adalah Razi Hafitz. Saat ini saya sedang menempuh pendidikan di SMKN 2 Balikpapan (SMKN2BPPN) Kelas XI-RPL.
+✨ *Selamat datang di profil saya!* ✨  
+Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 2 Balikpapan (SMKN2BPPN)** Kelas **XI-RPL**.
 
-- 🔭 **Sedang fokus pada:** Pengembangan aplikasi dan website
-- 🎯 **Hobi:** Main Game dan membuat Website
-- ⚡ **Fun Fact:** Suka belajar hal baru tentang teknologi web dan aplikasi
+* 🔭 **Sedang fokus pada:** Pengembangan aplikasi dan website (Web & Mobile Development)
+* 🎯 **Hobi:** Bermain game 🎮 dan ngoding membuat website 💻
+* ⚡ **Fun Fact:** Selalu penasaran dan suka mengeksplorasi hal-hal baru seputar dunia teknologi
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi Dan Website:
+Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang sering saya gunakan dalam mengembangkan proyek:
 
+<p align="left">
 #### 🎨 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
