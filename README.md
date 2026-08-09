@@ -11,19 +11,11 @@
 
 ---
 
-### 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="VS Code"/>
-</p>
-
 ---
 
-### 📊 GitHub Stats
+### 🎸 Kessoku Band Performance
 <p align="left">
-  <img src="https://vercel.app" alt="Raz's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+  <video src="./Keesokuband.mp4" width="600px" controls></video>
 </p>
+
+
