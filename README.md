@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:38B2AC&height=180&section=header&text=Razi%20Hafitz&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20Junior&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF700,100:FFB800&height=180&section=header&text=Razi%20Hafitz&fontSize=45&fontColor=1a1a1a&animation=fadeIn&desc=Full%20Stack%20Developer%20Junior&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Pelajar+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Belajar+Hal+Baru+Tentang+Web+%26+App+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFEA00&center=true&vCenter=true&width=520&lines=Pelajar+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Belajar+Hal+Baru+Tentang+Web+%26+App+Dev" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=razihafitz&label=Profile%20Views&color=2EA043&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/📍-Kalimantan%20Timur%2C%20Indonesia-2EA043?style=flat-square" alt="location" />
-<img src="https://img.shields.io/badge/Status-Belajar%20%26%20Berkarya-38B2AC?style=flat-square" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=razihafitz&label=Profile%20Views&color=FFEA00&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/badge/📍-Kalimantan%20Timur%2C%20Indonesia-FFEA00?style=flat-square&logoColor=black" alt="location" />
+<img src="https://img.shields.io/badge/Status-Belajar%20%26%20Berkarya-FFD700?style=flat-square" alt="status" />
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-FFEA00?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/WhatsApp-FFF700?style=for-the-badge&logo=whatsapp&logoColor=black"></a>
 
 </div>
 
@@ -56,31 +56,31 @@ Backend development yang lebih dalam (Laravel & PostgreSQL)
 **Frontend**
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-FFEA00?style=for-the-badge&logo=html5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-FFEA00?style=for-the-badge&logo=css3&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-FFEA00?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TailwindCSS-FFEA00?style=for-the-badge&logo=tailwind-css&logoColor=black">
 </p>
 
 **Backend**
 
 <p align="left">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=black">
+<img src="https://img.shields.io/badge/phpMyAdmin-FFD700?style=for-the-badge&logo=phpmyadmin&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=black">
+<img src="https://img.shields.io/badge/Laravel-FFD700?style=for-the-badge&logo=laravel&logoColor=black">
+<img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black">
 </p>
 
 **Tools**
 
 <p align="left">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-FFF700?style=for-the-badge&logo=visual-studio-code&logoColor=black">
+<img src="https://img.shields.io/badge/Git-FFF700?style=for-the-badge&logo=git&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-FFF700?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Claude-FFF700?style=for-the-badge&logo=anthropic&logoColor=black">
 </p>
 
 <br>
@@ -97,6 +97,6 @@ https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:2EA043&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFF700&height=100&section=footer" width="100%"/>
 
 <p align="center">✨ Terima kasih sudah mampir! ✨</p>
