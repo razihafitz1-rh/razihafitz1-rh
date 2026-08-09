@@ -46,7 +46,7 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
 
 
 
-### Keesoku Band
+### Kessoku Band
 
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
