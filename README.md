@@ -85,16 +85,6 @@ Backend development yang lebih dalam (Laravel & PostgreSQL)
 
 <br>
 
-## 📊 GitHub Streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=razihafitz&theme=github-dark-blue&hide_border=true" alt="streak stats" />
-</div>
-
-> ⚠️ Ganti `razihafitz` pada URL di atas dengan username GitHub kamu yang sebenarnya agar datanya tampil dengan benar.
-
-<br>
-
 ## 🎵 Keesoku Band
 
 <div align="center">
