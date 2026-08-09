@@ -1,54 +1,42 @@
 # Hi there!, I'm Razi 👋 
-### 🚀 Junior Full Stack Developer | Siswa SMKN 2 Balikpapan
+### 🚀 Full Stack Developer Junior 
 ### 📍 Kalimantan Timur, Indonesia
-
-> *"Masih belajar, suka ngulik teknologi baru, dan hobi bikin website impian!"* 💡
 
 ---
 
 ### 👤 About Me
-Halo! Saya Razi Hafitz, seorang pelajar kelas XI Rekayasa Perangkat Lunak (RPL) di **SMKN 2 Balikpapan** (SMKN2BPPN). Saat ini saya sedang menikmati proses belajar membangun aplikasi web dari nol hingga bisa digunakan.
+Saya adalah Razi Hafitz. Saat ini saya sedang menempuh pendidikan di SMKN 2 Balikpapan (SMKN2BPPN) Kelas XI-RPL.
 
-- 🔭 **Lagi fokus belajar:** Eksplorasi framework modern dan manajemen database.
-- 🌱 **Status saat ini:** Siswa SMK yang siap berkembang dan mencari pengalaman baru di dunia *software development*.
-- 🎯 **Hobi:** Main *game*, dengerin musik, dan *coding* hal-hal seru.
-- ⚡ **Fun Fact:** Sering begadang bukan karena tugas, tapi karena penasaran kenapa kodenya *error* wkwk.
+- 🔭 **Sedang fokus pada:** Pengembangan aplikasi dan website
+- 🎯 **Hobi:** Main Game dan membuat Website
+- ⚡ **Fun Fact:** Suka belajar hal baru tentang teknologi web dan aplikasi
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-Teknologi dan *tools* yang sedang dan pernah saya gunakan:
+Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi:
 
-* **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `React` | `TailwindCSS`
-* **Backend:** `PHP` | `MySQL` | `phpMyAdmin` | `MongoDB` | `Laravel` | `PostgreSQL`
-* **Tools & AI:** `Visual Studio Code` | `Git` | `GitHub` | `Claude` | `Blackbox AI` | `DeepSeek`
+#### Frontend & Backend
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="MySQL" />
+</p>
+
+#### Tools & Platforms
+<p align="left">
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
 
 ---
 
-### 🔥 Featured Project: Keesoku Band
-Salah satu proyek iseng/latihan yang sedang saya kembangkan:
+### Keesoku Band
 
+<!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 ---
-
-### 🕹️ Mini Games & Contribution Animation
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-* Selain Pac-Man di atas, saya juga suka bereksperimen dengan animasi grafik kontribusi menggunakan Snake dan mini game berbasis JavaScript!
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&theme=radical" alt="Razi's GitHub Stats" />
-</p>
-
----
-*Let's connect and build cool things together! 🚀*
