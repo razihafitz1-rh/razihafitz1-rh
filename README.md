@@ -13,8 +13,7 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 ### 🛠️ Tech Stack & Tools
 Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang sering saya gunakan dalam mengembangkan proyek:
 
-<p align="left">
-#### 🎨 Frontend Development
+### 🎨 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
