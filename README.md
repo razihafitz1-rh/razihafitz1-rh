@@ -5,6 +5,7 @@
 ---
 
 ### 👤 About Me
+Saya adalah Razi Hafitz Saat Ini sedang menempuh pendidikan di SMKN2BPPN Kelas XI-RPL
 - 🔭 **Sedang fokus pada:**
 ### Pengembangan aplikasi dan website 
 - 📍 **Lokasi:**
