@@ -22,8 +22,8 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
 
 ---
 
-### 💛 I love Nijika :3
+### keesoku band
 
-https://github.com
+https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 ---
