@@ -43,6 +43,11 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com" />
+  <img alt="github-pacman" src="https://github.com" />
+</picture>
 
 ### Keesoku Band
 
