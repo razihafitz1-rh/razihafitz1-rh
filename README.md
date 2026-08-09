@@ -51,6 +51,7 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
 
 
 
+
 ### Keesoku Band
 
 <!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
