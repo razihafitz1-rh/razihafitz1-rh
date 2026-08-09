@@ -1,16 +1,5 @@
 <!-- Bagian Animasi Pac-Man Kontribusi GitHub -->
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Pacman Graph" width="100%" />
-</p>
-
-<img src="https://giphy.com" width="30px"> Hi there!, I'm Razi 👋 
-
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-
+ Hi there!, I'm Razi 👋 
 ### 👤 About Me
 ✨ *Selamat datang di profil saya!* ✨  
 Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 2 Balikpapan (SMKN2BPPN)** Kelas **XI-RPL**.
