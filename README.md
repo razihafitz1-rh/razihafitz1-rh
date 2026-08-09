@@ -43,18 +43,10 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 </picture>
-<picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
   <img alt="github-pacman" src="https://githubusercontent.com" />
-</picture>
-
-   <!--  If DARK MODE → dark.svg -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyetBKU/.github/output/pacman-contribution-graph-dark.svg">
-  <!-- FALLBACK: Light mode → light.svg -->
-  <img src="https://raw.githubusercontent.com/DuyetBKU/.github/output/pacman-contribution-graph-light.svg">
-  
 </picture>
 
 ### Keesoku Band
