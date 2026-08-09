@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Banner Nama Atas Diperbaiki Kembali -->
-<img src="https://vercel.app" />
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Halo!;Saya+Razi+Hafitz;Siswa+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Backend+%26+Frontend+Lover" alt="Typing SVG" />
 
