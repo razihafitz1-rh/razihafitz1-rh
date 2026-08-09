@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFAA00&height=200&section=header&text=Razi%20Hafitz&fontSize=40&fontColor=0a0a0a&animation=twinkling&textAlignY=35&desc=Junior%20Web%20Developer&descSize=18&descAlignY=55" />
+<!-- Menggunakan tipe 'rect' (persegi) agar teks judul memiliki ruang/jarak yang aman dan tidak terpotong gelombang -->
+<img src="https://vercel.app" />
 
 <br>
 
@@ -98,7 +99,7 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://shields.io">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
@@ -174,7 +175,7 @@ https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 <p align="center">
   ✨ <b>Thanks for visiting!</b> ✨ <br>
-  <sub>⚡ Junior Developer yang selalu haus belajar ⚡</sub>
+  <sub>⚡ Full Stack Dev Junior yang selalu haus belajar ⚡</sub>
 </p>
 
 <p align="center">
