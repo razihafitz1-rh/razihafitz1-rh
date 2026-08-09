@@ -42,8 +42,13 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
 
 <!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation Dark" />
-</p>
+- name: generate-github-contribution-grid-snake
+  uses: platane/snk/generated@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#db2777
+      dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#db2777
+
 
 ---
