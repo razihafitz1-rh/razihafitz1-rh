@@ -16,9 +16,9 @@ Saya adalah Razi Hafitz. Saat ini saya sedang menempuh pendidikan di SMKN 2 Bali
 ### 🛠️ Tech Stack & Tools
 Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi:
 
-* **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `React` | `TailwindCSS`  
-* **Backend:** `PHP` | `MySQL` | `PHPMYADMIN` | `MongoDB` | `Laravel` | `potsgresql`
-* **Tools:** `Visual Studio Code` | `Git` | `GitHub` | `Claude` | `Blackbox AI` | `deepseek`
+* **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `React` | `TailwindCSS`
+* **Backend:** `PHP` | `MySQL` | `phpMyAdmin` | `MongoDB` | `Laravel` | `PostgreSQL`
+* **Tools:** `Visual Studio Code` | `Git` | `GitHub` | `Claude` | `Blackbox AI` | `DeepSeek`
 
 ---
 
