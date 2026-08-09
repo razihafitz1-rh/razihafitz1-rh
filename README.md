@@ -65,12 +65,7 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=razihafitz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razihafitz&theme=github-dark-blue&hide_border=true" alt="streak stats" />
@@ -81,17 +76,7 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 ---
 
 ### 🎵 Keesoku Band
+[https://github.com](https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3)
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3">
-    <img src="https://img.shields.io/badge/▶️_Tonton-Video%20Keesoku%20Band-2EA043?style=for-the-badge">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=footer" />
-</p>
-
-<p align="center">✨ Terima kasih sudah mampir! ✨</p>
+<p align="center">Lovely Yellow</p>
+ 
