@@ -29,6 +29,13 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 
 <br>
 
+<div align="center">
+  <!-- GIF Animasi bawaan dipertahankan di sini -->
+  <img src="https://giphy.com" width="400" height="200" style="border-radius: 8px;" />
+</div>
+
+<br>
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
