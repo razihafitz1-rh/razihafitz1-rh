@@ -118,7 +118,6 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 
 ## 📊 GitHub Stats
 
-<!-- Statistik Diperbarui ke Username Baru -->
 <div align="center">
   <img src="https://vercel.app" width="49%" />
   <img src="https://herokuapp.com" width="49%" />
@@ -128,19 +127,6 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 
 <div align="center">
   <img src="https://vercel.app" width="50%" />
-</div>
-
-<br>
-
-## 🎵 Keesoku Band
-
-<div align="center">
-
-https://github.com
-
-<br>
-<sub>💛 Lovely Yellow — My Favorite Band</sub>
-
 </div>
 
 <br>
