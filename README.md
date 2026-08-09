@@ -1,6 +1,8 @@
 <div align="center">
 
-<!-- Menggunakan tipe 'rect' (persegi) agar teks judul memiliki ruang/jarak yang aman dan tidak terpotong gelombang -->
+<!-- Banner Nama Atas Diperbaiki Kembali -->
+<img src="https://vercel.app" />
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Halo!;Saya+Razi+Hafitz;Siswa+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Backend+%26+Frontend+Lover" alt="Typing SVG" />
@@ -39,7 +41,7 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 <td width="50%" valign="top">
 
 ### 🔭 Saat ini saya:
-- 🌱 Magang di **PT. SIGAP PRIMA ASIA**
+- 🌱 PKL di **Diskominfo Balikpapan**
 - 📚 Belajar **Laravel 11** & **PostgreSQL**
 - 💻 Fokus bikin website yang keren
 
@@ -97,6 +99,7 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- Badge PostgreSQL Diperbaiki -->
   <img src="https://shields.io">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
@@ -104,7 +107,7 @@ Halo! Saya **Razi Hafitz** — seorang junior web developer yang masih dalam tah
 ### 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://shields.io">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
