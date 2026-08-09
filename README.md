@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_GITHUB_KAMU&show_icons=true&theme=radical" alt="Razi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&theme=radical" alt="Razi's GitHub Stats" />
 </p>
 
 ---
