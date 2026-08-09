@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF700,100:FFB800&height=220&section=header&text=Razi%20Hafitz&fontSize=45&fontColor=1a1a1a&animation=fadeIn&textAlignY=32&desc=Full%20Stack%20Developer%20Junior&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF700,100:FFB800&height=220&section=header&text=Razi%20Hafitz&fontSize=45&fontColor=1a1a1a&animation=fadeIn&textAlignY=32&
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFEA00&center=true&vCenter=true&width=520&lines=Pelajar+SMKN+2+Balikpapan;Kelas+XI-RPL;Suka+Main+Game+%26+Bikin+Website;Belajar+Hal+Baru+Tentang+Web+%26+App+Dev" alt="Typing SVG" />
 
