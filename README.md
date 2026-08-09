@@ -1,4 +1,4 @@
-# Hi there!, I'm Razi 👋 
+# Hi there!, I'm Razi Hafitz👋 
 ### 🚀 Full Stack Developer Junior 
 ### 📍 Kalimantan Timur, Indonesia
 
