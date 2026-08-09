@@ -1,76 +1,45 @@
-# Hi there, I'm Pray. 👋
+# Hi there!, I'm Razi 👋 
+### 🚀 Full Stack Developer Junior 
+### 📍 Kalimantan Timur, Indonesia
 
-I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
+---
 
-<table width="100%" style="border: none;">
-<tr>
-<td align="left" valign="top" width="50%" style="border: none;">
+### 👤 About Me
+Saya adalah Razi Hafitz. Saat ini saya sedang menempuh pendidikan di SMKN 2 Balikpapan (SMKN2BPPN) Kelas XI-RPL.
 
-<h3>About Me</h3>
+- 🔭 **Sedang fokus pada:** Pengembangan aplikasi dan website
+- 🎯 **Hobi:** Main Game dan membuat Website
+- ⚡ **Fun Fact:** Suka belajar hal baru tentang teknologi web dan aplikasi
 
-- 🛠️ Full-stack Developer with Cloud Experience
-- 💻 Go Developer & Vim Power User & Rust Learner
-- 🔧 Custom PC Building Enthusiast
-- 🍎 Hackintosh User
-- 🎵 Sports & Music Enthusiast
-- ✨ Clean Code & Tidy Space Advocate
-- 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
+---
 
-</td>
+### 🛠️ Tech Stack & Tools
+Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembangan aplikasi Dan Website:
 
-<td width="50%" valign="top" style="border: none;">
-<h3>GitHub Stats</h3>
-<div align="center">
-  <div class="stats-container" align="center">
-    <picture>
-      <source
-        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" 
-        alt="Pray's GitHub Stats" 
-        width="495"
-        height="195"
-        loading="lazy"
-      />
-    </picture>
-  </div>
-</div>
-</td>
-</tr>
-</table>
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
 
-<h2 align="left">🚀 Skills</h2>
+#### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-<h2 align="left">📈 Contribution Stats</h2>
+### Keesoku Band
 
-### GitHub & Gitee Activity
+<!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
+https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
-</picture>
-
-Check out [my project](https://github.com/Zqzqsb/MultiSourceSnake) to generate your own contribution snake animation combining both GitHub and Gitee activities.
-
-<h2 align="left">📝 Blog</h2>
-
-Visit my blog for articles and tutorials:
-
-- [ZQ` Blog](https://blog.zqzqsb.cn)
