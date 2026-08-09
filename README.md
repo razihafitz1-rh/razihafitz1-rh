@@ -38,8 +38,69 @@ Berikut adalah beberapa teknologi dan *tools* yang saya gunakan dalam pengembang
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Keesoku Band
+---
+
+### 🎮 My Game Projects
+
+#### 🕹️ Patchman
+Game klasik bergaya Pac-Man yang dibangun dengan JavaScript dan HTML5 Canvas.
+
+**Fitur:**
+- 🎯 Maze dengan rintangan
+- 👾 Musuh yang bergerak otomatis
+- ⭐ Power-up untuk melawan musuh
+- 🏆 Sistem skor dan level
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/2d2d2d/00ff88?text=Patchman+Game" alt="Patchman Game Screenshot" width="600"/>
+</p>
+
+---
+
+#### 🐍 Snake Game
+Game Snake klasik dengan tampilan modern dan fitur tambahan.
+
+**Fitur:**
+- 🎮 Kontrol keyboard (Arrow Keys / WASD)
+- 🍎 Sistem makanan dengan poin
+- 📈 Skor dan high score tersimpan
+- ⏱️ Kecepatan meningkat seiring skor
+- 🎨 Desain responsif dan menarik
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/2d2d2d/00ff88?text=Snake+Game" alt="Snake Game Screenshot" width="600"/>
+</p>
+
+---
+
+### 🎥 Keesoku Band
 
 <!-- Jika link di bawah ini adalah file video, GitHub akan otomatis memutarnya secara langsung -->
 https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razi-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razi-dev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+<p align="left">
+  <a href="https://instagram.com/razihafitz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/razi-hafitz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:razi.hafitz@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+⭐ **Terima kasih sudah mengunjungi profil saya!** Jangan ragu untuk melihat proyek-proyek saya dan memberikan feedback. 😊
