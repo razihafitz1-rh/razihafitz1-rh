@@ -33,8 +33,6 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Debian" />
-  <img src="https://shields.io" alt="Kali Linux" />
 </p>
 
 <picture>
