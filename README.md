@@ -41,15 +41,6 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 <picture>
 
-  
-
-
-
-
-### Kessoku Band
-
-https://github.com/user-attachments/assets/4e3deff2-bf4a-4a24-84ca-4108340f78d3
-
 ---
 PROFIL GITHUB RAZI HAFITZ
 ---
