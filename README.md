@@ -20,7 +20,7 @@ Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang s
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://shields.io" alt="Figma" />
+  <img src="https://shields.io" />
 </p>
 
 #### ⚙️ Backend Development
