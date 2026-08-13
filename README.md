@@ -14,7 +14,6 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 Berikut adalah beberapa teknologi, bahasa pemrograman, dan alat (*tools*) yang sering saya gunakan dalam mengembangkan proyek:
 ### UI/UX User Interface and User Experience
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-![Adobe XD](https://shields.io)
 
 ### 🎨 Frontend Development 
 <p align="left">
