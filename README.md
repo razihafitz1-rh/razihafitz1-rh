@@ -1,4 +1,3 @@
-<!-- Bagian Animasi Pac-Man Kontribusi GitHub -->
  Hi there!, I'm Razi 👋 
 ### 👤 About Me
 ✨ *Selamat datang di profil saya!* ✨  
@@ -6,8 +5,8 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 * **Sedang fokus pada:** Pengembangan aplikasi dan website (Web & Mobile Development)
 * **Hobi:** Bermain game dan ngoding membuat website 
-
-
+  
+###  Sedang Berusaha Memperbanyak Project Website Sampai impian menjadi full stack dev terwujud
 ---
 
 ### 🛠️ Tech Stack & Tools
