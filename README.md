@@ -1,4 +1,10 @@
-<h1 align="center">Hi there! 👋 I'm Razi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Razi;Full+Stack+Developer+in+Progress;Web+%26+Mobile+Developer;Student+%40+SMKN+2+Balikpapan" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zqzqsb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -44,6 +50,28 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 ---
 
+### 📊 GitHub Stats (Patchman)
+
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats-patchman.vercel.app/api?username=Zqzqsb&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-patchman.vercel.app/api/top-langs/?username=Zqzqsb&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats-patchman.vercel.app/?user=Zqzqsb&hide_border=true&theme=radical&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" width="70%" />
+</p>
+
+<p align="center">
+  <sub>⚡ Powered by <a href="https://github-readme-stats-patchman.vercel.app" target="_blank">Patchman Stats</a></sub>
+</p>
+
+---
+
+### 🐍 Kontribusi Ular
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
@@ -54,6 +82,6 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 ---
 
 <p align="center">
-  <i>✨Terus berkarya dan jangan pernah berhenti belajar!</i><br />
+  <i>✨ Terus berkarya dan jangan pernah berhenti belajar! ✨</i><br />
   <b>— Razi Hafitz —</b>
 </p>
