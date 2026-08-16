@@ -48,15 +48,8 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-patchman.vercel.app/api?username=Zqzqsb&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats-patchman.vercel.app/?user=Zqzqsb&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats-patchman.vercel.app/api/top-langs/?username=Zqzqsb&layout=compact&theme=radical" alt="Top Languages" />
-</p>
----
+<!-- Patchman Stats Server -->
+https://github-readme-stats-patchman.vercel.app
 
 ### 🐍 Kontribusi Ular
 <picture>
