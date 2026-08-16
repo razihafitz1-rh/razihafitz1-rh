@@ -61,7 +61,7 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 </p>
 
 <p align="center">
-  <!-- Streak Stats (menggunakan versi streak yang stabil) -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&hide_border=true&theme=radical&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" width="70%" />
 </p>
 
