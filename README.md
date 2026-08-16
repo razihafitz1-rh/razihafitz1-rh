@@ -50,23 +50,23 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 ---
 
-### 📊 GitHub Stats (Patchman)
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats-patchman.vercel.app/api?username=Zqzqsb&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zqzqsb&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-patchman.vercel.app/api/top-langs/?username=Zqzqsb&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zqzqsb&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d2ff&text_color=ffffff" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats-patchman.vercel.app/?user=Zqzqsb&hide_border=true&theme=radical&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff" alt="GitHub Streak" width="70%" />
+  <!-- Streak Stats (menggunakan versi streak yang stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&hide_border=true&theme=radical&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
-  <sub>⚡ Powered by <a href="https://github-readme-stats-patchman.vercel.app" target="_blank">Patchman Stats</a></sub>
+  <sub>⚡ Stats by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">anuraghazra</a> & <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">denvercoder1</a></sub>
 </p>
 
 ---
