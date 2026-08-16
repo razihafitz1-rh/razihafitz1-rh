@@ -48,8 +48,7 @@ Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 
 
 ---
 
-<!-- Patchman Stats Server -->
-https://github-readme-stats-patchman.vercel.app
+
 
 ### 🐍 Kontribusi Ular
 <picture>
