@@ -4,7 +4,7 @@
 Saya adalah **Razi Hafitz**. Saat ini saya sedang menempuh pendidikan di **SMKN 2 Balikpapan (SMKN2BPPN)** Kelas **XI-RPL**.
 
 * **Sedang fokus pada:** Pengembangan aplikasi dan website (Web & Mobile Development)
-* **Hobi:** Bermain game dan ngoding membuat website 
+* **Hobi:** Bermain game,ngoding membuat website,dan adzan di masjid 
   
 ###  Sedang Berusaha Memperbanyak Project Website Sampai impian menjadi full stack dev terwujud
 ---
