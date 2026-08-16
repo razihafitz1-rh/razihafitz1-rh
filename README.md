@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Razi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Progress;Web+%26+Mobile+Developer;Student+%40+SMKN+2+Balikpapan" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👤 About Me
