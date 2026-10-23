@@ -252,7 +252,7 @@
   <a href="https://github.com/razihafitz1-rh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff88&color=0f3460" />
   </a>
-  <a href="https://linkedin.com/in/razihafitz" target="_blank">
+  <a href="[https://linkedin.com/in/razihafitz](https://www.linkedin.com/in/razi-hafitz-466bb2403/?isSelfProfile=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0f3460" />
   </a>
   <a href="mailto:razihafitz@gmail.com" target="_blank">
