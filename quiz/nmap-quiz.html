@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>⚡ NMAP QUIZ — Home Lab Nexus</title>
+<style>
+  :root {
+    --bg: #0b0b16;
+    --panel: #12121f;
+    --panel-2: #1a1a2e;
+    --cyan: #00ffff;
+    --purple: #bf00ff;
+    --indigo: #4b0082;
+    --ok: #26d97f;
+    --err: #ff3b6b;
+    --text: #e8e8f5;
+    --muted: #9a9ab5;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    padding: 24px 14px 60px;
+    background:
+      radial-gradient(900px 500px at 12% -10%, rgba(191, 0, 255, 0.22), transparent 60%),
+      radial-gradient(900px 520px at 88% 0%, rgba(0, 255, 255, 0.16), transparent 60%),
+      var(--bg);
+    color: var(--text);
+    font-family: "Fira Code", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    line-height: 1.55;
+  }
+
+  .wrap { width: 100%; max-width: 860px; margin: 0 auto; }
+
+  /* ---------- HEADER ---------- */
+  header { text-align: center; margin-bottom: 22px; }
+
+  header h1 {
+    margin: 0 0 6px;
+    font-size: clamp(1.35rem, 4.4vw, 2.1rem);
+    letter-spacing: 1px;
+    color: var(--cyan);
+    text-shadow: 0 0 12px rgba(0, 255, 255, 0.55), 0 0 30px rgba(0, 255, 255, 0.2);
+  }
+
+  header p { margin: 0; color: var(--muted); font-size: 0.82rem; }
+
+  .badge {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 4px 12px;
+    font-size: 0.7rem;
+    letter-spacing: 1.4px;
+    color: var(--purple);
+    border: 1px solid var(--purple);
+    border-radius: 999px;
+    box-shadow: 0 0 12px rgba(191, 0, 255, 0.45) inset, 0 0 12px rgba(191, 0, 255, 0.25);
+  }
+
+  /* ---------- CARD ---------- */
+  .card {
+    background: linear-gradient(180deg, rgba(26, 26, 46, 0.92), rgba(18, 18, 31, 0.96));
+    border: 1px solid rgba(0, 255, 255, 0.28);
+    border-radius: 14px;
+    padding: 22px;
+    box-shadow: 0 0 0 1px rgba(191, 0, 255, 0.12), 0 18px 45px rgba(0, 0, 0, 0.55);
+  }
+
+  .card + .card { margin-top: 16px; }
+
+  h2 { margin: 0 0 10px; font-size: 1.02rem; color: var(--cyan); letter-spacing: 0.6px; }
+
+  .hidden { display: none !important; }
+
+  /* ---------- START SCREEN ---------- */
+  .rules { margin: 0 0 18px; padding: 0; list-style: none; }
+
+  .rules li {
+    position: relative;
+    padding: 6px 0 6px 22px;
+    font-size: 0.86rem;
+    color: #cfcfe6;
+  }
+
+  .rules li::before {
+    content: "▸";
+    position: absolute;
+    left: 4px;
+    color: var(--purple);
+  }
+
+  code, .cmd {
+    font-family: inherit;
+    background: #05050c;
+    border: 1px solid rgba(0, 255, 255, 0.22);
+    border-radius: 5px;
+    padding: 1px 6px;
+    color: var(--cyan);
+    font-size: 0.86em;
+    white-space: nowrap;
+  }
+
+  /* ---------- BUTTONS ---------- */
+  button { font-family: inherit; cursor: pointer; border: none; }
+
+  .btn {
+    display: inline-block;
+    padding: 12px 22px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #04121a;
+    background: linear-gradient(120deg, var(--cyan), #7af7ff);
+    border-radius: 10px;
+    box-shadow: 0 0 18px rgba(0, 255, 255, 0.45);
+    transition: transform 0.12s ease, box-shadow 0.12s ease, opacity 0.12s ease;
+  }
+
+  .btn:hover { transform: translateY(-2px); box-shadow: 0 0 26px rgba(0, 255, 255, 0.7); }
+  .btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; box-shadow: none; }
+
+  .btn-ghost {
+    color: var(--cyan);
+    background: transparent;
+    border: 1px solid rgba(0, 255, 255, 0.5);
+    box-shadow: none;
+  }
+
+  .btn-ghost:hover { background: rgba(0, 255, 255, 0.08); box-shadow: 0 0 16px rgba(0, 255, 255, 0.28); }
+  .btn-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+
+  /* ---------- QUIZ SCREEN ---------- */
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.76rem;
+    color: var(--muted);
+    letter-spacing: 0.8px;
+    margin-bottom: 10px;
+  }
+
+  .meta-row .score-live { color: var(--ok); }
+
+  .bar {
+    height: 7px;
+    width: 100%;
+    background: #06060f;
+    border: 1px solid rgba(191, 0, 255, 0.3);
+    border-radius: 999px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+
+  .bar > span {
+    display: block;
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--purple), var(--cyan));
+    box-shadow: 0 0 12px rgba(0, 255, 255, 0.8);
+    transition: width 0.28s ease;
+  }
+
+  .tag {
+    display: inline-block;
+    margin-bottom: 8px;
+    padding: 2px 9px;
+    font-size: 0.64rem;
+    letter-spacing: 1.2px;
+    border-radius: 4px;
+    color: var(--purple);
+    background: rgba(191, 0, 255, 0.12);
+    border: 1px solid rgba(191, 0, 255, 0.45);
+  }
+
+  .question {
+    margin: 0 0 16px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+  }
+
+  .options { display: grid; gap: 9px; margin-bottom: 16px; }
+
+  .opt {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    width: 100%;
+    text-align: left;
+    padding: 11px 13px;
+    font-size: 0.87rem;
+    color: var(--text);
+    background: #0d0d18;
+    border: 1px solid rgba(0, 255, 255, 0.18);
+    border-radius: 9px;
+    transition: border-color 0.14s ease, background 0.14s ease, transform 0.14s ease;
+  }
+
+  .opt:hover:not(:disabled) {
+    border-color: rgba(0, 255, 255, 0.65);
+    background: rgba(0, 255, 255, 0.06);
+    transform: translateX(3px);
+  }
+
+  .opt .key {
+    flex: 0 0 22px;
+    height: 22px;
+    display: grid;
+    place-items: center;
+    font-size: 0.68rem;
+    font-weight: 700;
+    color: var(--cyan);
+    border: 1px solid rgba(0, 255, 255, 0.5);
+    border-radius: 5px;
+  }
+
+  .opt.correct { border-color: var(--ok); background: rgba(38, 217, 127, 0.12); }
+  .opt.correct .key { color: var(--ok); border-color: var(--ok); }
+  .opt.wrong { border-color: var(--err); background: rgba(255, 59, 107, 0.12); }
+  .opt.wrong .key { color: var(--err); border-color: var(--err); }
+  .opt:disabled { cursor: default; }
+
+  .feedback {
+    margin-bottom: 16px;
+    padding: 11px 13px;
+    font-size: 0.82rem;
+    border-radius: 9px;
+    border-left: 3px solid var(--cyan);
+    background: rgba(0, 255, 255, 0.07);
+    color: #d6f9ff;
+  }
+
+  .feedback.bad { border-left-color: var(--err); background: rgba(255, 59, 107, 0.09); color: #ffd9e2; }
+  .feedback b { color: #fff; }
+
+  /* ---------- RESULT SCREEN ---------- */
+  .score-big {
+    text-align: center;
+    margin: 6px 0 2px;
+    font-size: clamp(2.4rem, 12vw, 3.6rem);
+    font-weight: 700;
+    color: var(--cyan);
+    text-shadow: 0 0 22px rgba(0, 255, 255, 0.55);
+    line-height: 1.1;
+  }
+
+  .score-sub { text-align: center; color: var(--muted); font-size: 0.82rem; margin-bottom: 8px; }
+
+  .grade {
+    text-align: center;
+    margin: 0 auto 20px;
+    width: fit-content;
+    padding: 6px 18px;
+    font-size: 0.8rem;
+    letter-spacing: 1.5px;
+    border-radius: 999px;
+    border: 1px solid var(--purple);
+    color: var(--purple);
+    box-shadow: 0 0 18px rgba(191, 0, 255, 0.35);
+  }
+
+  .review { list-style: none; margin: 0; padding: 0; }
+
+  .review li {
+    padding: 10px 0;
+    border-bottom: 1px dashed rgba(154, 154, 181, 0.22);
+    font-size: 0.8rem;
+  }
+
+  .review li:last-child { border-bottom: none; }
+
+  .review .rq { color: #fff; }
+  .review .ra { color: var(--muted); font-size: 0.76rem; margin-top: 3px; }
+  .review .mark-ok { color: var(--ok); font-weight: 700; }
+  .review .mark-err { color: var(--err); font-weight: 700; }
+
+  footer {
+    margin-top: 22px;
+    text-align: center;
+    font-size: 0.7rem;
+    color: #6f6f8c;
+    letter-spacing: 0.6px;
+  }
+
+  @media (max-width: 520px) {
+    .card { padding: 16px; }
+    .btn { width: 100%; text-align: center; }
+    .btn-row { flex-direction: column-reverse; align-items: stretch; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>⚡ NMAP QUIZ ⚡</h1>
+    <p>Uji pemahaman Network Mapper — flags, port state, NSE &amp; etika</p>
+    <span class="badge">HOME LAB NEXUS · 25 SOAL</span>
+  </header>
+
+  <!-- ================= START ================= -->
+  <section id="screen-start" class="card">
+    <h2>📋 Sebelum Mulai</h2>
+    <ul class="rules">
+      <li>Total <b>25 soal</b>: 20 pilihan ganda + 5 benar/salah.</li>
+      <li>Setiap soal punya <b>satu jawaban benar</b>; urutan soal &amp; opsi diacak setiap kali mulai.</li>
+      <li>Pembahasan langsung muncul setelah menjawab — baca dulu, lalu klik <b>Soal Berikutnya</b>.</li>
+      <li>Nilai dihitung otomatis: <b>+4 poin</b> per jawaban benar (maks. 100).</li>
+      <li>Materi mengacu ke dokumentasi resmi Nmap (<span class="cmd">nmap.org/book</span>).</li>
+      <li>Gunakan Nmap <b>hanya pada jaringan/lab milik sendiri atau yang diizinkan</b>.</li>
+    </ul>
+    <div class="btn-row">
+      <span style="font-size:0.75rem;color:var(--muted)">Target: ≥ 80 poin 🎯</span>
+      <button class="btn" id="btn-start" type="button">MULAI QUIZ ▸</button>
+    </div>
+  </section>
+
+  <!-- ================= QUIZ ================= -->
+  <section id="screen-quiz" class="card hidden">
+    <div class="meta-row">
+      <span id="counter">SOAL 1 / 25</span>
+      <span class="score-live" id="live-score">SKOR 0</span>
+    </div>
+    <div class="bar"><span id="progress"></span></div>
+
+    <span class="tag" id="tag">PORT SCANNING</span>
+    <p class="question" id="question">…</p>
+    <div class="options" id="options"></div>
+    <div class="feedback hidden" id="feedback"></div>
+
+    <div class="btn-row">
+      <button class="btn-ghost btn" id="btn-quit" type="button">✕ Keluar</button>
+      <button class="btn" id="btn-next" type="button" disabled>SOAL BERIKUTNYA ▸</button>
+    </div>
+  </section>
+
+  <!-- ================= RESULT ================= -->
+  <section id="screen-result" class="card hidden">
+    <h2>🏁 Hasil Quiz</h2>
+    <div class="score-big" id="final-score">0</div>
+    <div class="score-sub" id="final-sub">0 dari 25 jawaban benar</div>
+    <div class="grade" id="final-grade">—</div>
+
+    <h2>🔍 Pembahasan Jawaban</h2>
+    <ul class="review" id="review"></ul>
+
+    <div class="btn-row" style="margin-top:18px">
+      <button class="btn-ghost btn" id="btn-menu" type="button">◂ Menu</button>
+      <button class="btn" id="btn-retry" type="button">ULANGI QUIZ ⟳</button>
+    </div>
+  </section>
+
+  <footer>Keep tinkering · stay curious · razihafitz1-rh</footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ============================================================
+     BANK SOAL — 25 item (20 pilihan ganda + 5 benar/salah)
+     Referensi: nmap.org/book (dokumentasi resmi Nmap)
+     ============================================================ */
+  const QUESTIONS = [
+    {
+      tag: "DASAR",
+      q: "Nmap adalah singkatan dari ...",
+      opts: [
+        "Network Mapper",
+        "Network Management Application Protocol",
+        "Node Mapping",
+        "Nmap Network Analyzer"
+      ],
+      a: 0,
+      exp: "Nmap = Network Mapper, tool open-source untuk host discovery, port scanning, service/OS detection, dan scripting lewat NSE."
+    },
+    {
+      tag: "HOST DISCOVERY",
+      q: "Opsi yang HANYA melakukan host discovery tanpa scan port adalah ...",
+      opts: ["-sn", "-Pn", "-sV", "-p-"],
+      a: 0,
+      exp: "-sn (dulu disebut -sP) hanya memeriksa host mana yang hidup, tanpa scan port. Hasilnya bisa dilihat dengan perintah seperti nmap -sn 192.168.1.0/24."
+    },
+    {
+      tag: "PORT SCANNING",
+      q: "Apa arti opsi -sS pada Nmap?",
+      opts: [
+        "TCP SYN scan (half-open scan)",
+        "TCP connect scan",
+        "UDP scan",
+        "ACK scan untuk memetakan firewall"
+      ],
+      a: 0,
+      exp: "-sS mengirim paket SYN lalu tidak menyelesaikan handshake (RST) bila port terbuka — cepat dan relatif tidak mencolok, tetapi butuh privilege root."
+    },
+    {
+      tag: "PORT SCANNING",
+      q: "Apa perbedaan utama -sT dibanding -sS?",
+      opts: [
+        "-sT menyelesaikan TCP handshake penuh lewat connect() sistem operasi, jadi lebih mudah tercatat di log aplikasi",
+        "-sT mengirim paket UDP, sedangkan -sS mengirim TCP",
+        "-sT hanya bisa dipakai pada alamat IPv6",
+        "-sT tidak bisa mendeteksi port tertutup"
+      ],
+      a: 0,
+      exp: "-sT memakai connect() OS sehingga handshake penuh selesai (lebih 'berisik'); -sT bisa dijalankan tanpa root, sementara -sS memerlukan raw socket."
+    },
+    {
+      tag: "SERVICE DETECTION",
+      q: "Opsi -sV digunakan untuk ...",
+      opts: [
+        "Mendeteksi versi layanan yang berjalan di port terbuka",
+        "Menampilkan versi Nmap yang terpasang",
+        "Memindai versi kernel target",
+        "Mengaktifkan mode verbose"
+      ],
+      a: 0,
+      exp: "-sV (version detection) mengirim probe ke port terbuka untuk menebak produk dan versi layanan, mis. 'OpenSSH 8.9p1'."
+    },
+    {
+      tag: "OS DETECTION",
+      q: "Opsi -O pada Nmap berfungsi untuk ...",
+      opts: [
+        "Mendeteksi sistem operasi target lewat analisis fingerprint TCP/IP",
+        "Membuka port secara paksa",
+        "Menampilkan output dalam format XML",
+        "Mempercepat scan dengan banyak thread"
+      ],
+      a: 0,
+      exp: "-O melakukan OS detection berdasarkan fingerprint stack TCP/IP. Membutuhkan privilege dan hasilnya berupa tebakan (bisa lebih dari satu kandidat)."
+    },
+    {
+      tag: "PORT SELECTION",
+      q: "Perintah nmap -p- 192.168.1.10 akan memindai ...",
+      opts: [
+        "Seluruh 65535 port TCP",
+        "Hanya 1000 port terpopuler",
+        "Hanya port 1 sampai 100",
+        "Port UDP saja"
+      ],
+      a: 0,
+      exp: "-p- adalah singkatan dari -p 1-65535, yaitu seluruh rentang port. Jauh lebih lama daripada scan default."
+    },
+    {
+      tag: "PORT SELECTION",
+      q: "Perintah nmap -p 22,80,443,8000-8100 target berarti ...",
+      opts: [
+        "Memindai port 22, 80, 443, dan seluruh port 8000 sampai 8100",
+        "Memindai port 22 sampai 8100 secara berurutan",
+        "Memindai 4 port saja yaitu 22, 80, 443, dan 8000",
+        "Memindai port 8000 sampai 8100 dengan 4 percobaan"
+      ],
+      a: 0,
+      exp: "Nmap menerima daftar port dipisah koma, campuran port tunggal dan rentang (tanda -). Rentang 8000-8100 berarti 101 port."
+    },
+    {
+      tag: "DEFAULT",
+      q: "Jika hanya menjalankan 'nmap target' tanpa opsi port, Nmap memindai ...",
+      opts: [
+        "1000 port TCP yang paling umum digunakan",
+        "Seluruh 65535 port",
+        "Hanya port 80 dan 443",
+        "Port yang ditulis di file /etc/services saja"
+      ],
+      a: 0,
+      exp: "Default-nya --top-ports 1000, yaitu 1000 port TCP paling sering terbuka. Gunakan -p- untuk semua port atau --top-ports N untuk mengubahnya."
+    },
+    {
+      tag: "PORT STATE",
+      q: "State 'filtered' pada hasil scan berarti ...",
+      opts: [
+        "Nmap tidak bisa memastikan port terbuka atau tertutup karena paket diblokir/difilter (mis. firewall)",
+        "Port terbuka dan menerima koneksi",
+        "Port tertutup tetapi host aktif",
+        "Host tujuan tidak pernah merespons sama sekali"
+      ],
+      a: 0,
+      exp: "filtered = tidak ada balasan atau balasan ICMP error dari firewall/IDS. Nmap tidak tahu status sebenarnya, hanya bahwa aksesnya terhalang."
+    },
+    {
+      tag: "PORT STATE",
+      q: "Pada TCP scan, state 'closed' menunjukkan bahwa ...",
+      opts: [
+        "Host aktif dan mengirim balasan RST, tetapi tidak ada layanan yang mendengarkan di port itu",
+        "Port terbuka dan siap menerima koneksi",
+        "Firewall membuang paket tanpa balasan",
+        "Host tujuan mati total"
+      ],
+      a: 0,
+      exp: "closed = port dapat dijangkau tetapi tidak ada aplikasi yang listen; host membalas dengan RST. Host yang mati biasanya menghasilkan state filtered atau tidak muncul sama sekali."
+    },
+    {
+      tag: "NSE",
+      q: "NSE adalah singkatan dari ...",
+      opts: [
+        "Nmap Scripting Engine",
+        "Network Security Enumeration",
+        "Nmap Service Extension",
+        "Node Scanning Engine"
+      ],
+      a: 0,
+      exp: "Nmap Scripting Engine (NSE) memungkinkan otomasi tugas seperti deteksi kerentanan, enumerasi, brute force, dan pemeriksaan konfigurasi."
+    },
+    {
+      tag: "NSE",
+      q: "Perintah 'nmap --script vuln target' akan ...",
+      opts: [
+        "Menjalankan semua script NSE dalam kategori vuln untuk mencari kerentanan umum",
+        "Mengunci target agar tidak bisa diakses",
+        "Memindai seluruh 65535 port terlebih dahulu",
+        "Mengaktifkan mode verbose pada Nmap"
+      ],
+      a: 0,
+      exp: "--script vuln menjalankan script kategori 'vuln'. Untuk script tertentu: --script=http-shellshock, dan script default aman: -sC atau --script default."
+    },
+    {
+      tag: "TIMING",
+      q: "Opsi -T4 pada Nmap berarti ...",
+      opts: [
+        "Menggunakan timing template 'aggressive' yang lebih cepat, cocok untuk jaringan lokal yang stabil",
+        "Melakukan 4 kali percobaan ulang setiap port",
+        "Memindai 4 port sekaligus",
+        "Menunggu 4 detik di antara paket"
+      ],
+      a: 0,
+      exp: "Template timing berkisar -T0 (paranoid) sampai -T5 (insane). -T4 mempercepat scan dan umum dipakai di LAN; gunakan timing lebih lambat bila takut mengganggu jaringan."
+    },
+    {
+      tag: "HOST DISCOVERY",
+      q: "Opsi -Pn berguna ketika ...",
+      opts: [
+        "Host target memblokir ping, sehingga Nmap melewati host discovery dan menganggap semua target hidup",
+        "Kita ingin memindai port UDP saja",
+        "Kita ingin menyembunyikan alamat IP sumber",
+        "Kita ingin menampilkan alasan state port"
+      ],
+      a: 0,
+      exp: "-Pn (no ping) melewati tahap host discovery. Berguna untuk target yang memblokir ICMP/ping, dengan konsekuensi scan jadi lebih lama."
+    },
+    {
+      tag: "OUTPUT",
+      q: "Opsi untuk menyimpan hasil scan dalam format XML adalah ...",
+      opts: ["-oX", "-oN", "-oG", "-oS"],
+      a: 0,
+      exp: "-oX file.xml menghasilkan output XML (mudah di-parse tool lain), -oN normal, -oG grepable, -oS script kiddie."
+    },
+    {
+      tag: "OUTPUT",
+      q: "Opsi -oA hasil_scan akan menghasilkan ...",
+      opts: [
+        "Tiga file sekaligus: .nmap (normal), .xml, dan .gnmap (grepable)",
+        "Satu file HTML berisi laporan lengkap",
+        "File konfigurasi Nmap yang bisa dipakai ulang",
+        "Arsip ZIP berisi seluruh screenshot scan"
+      ],
+      a: 0,
+      exp: "-oA <basename> adalah cara praktis menyimpan ketiga format utama sekaligus. Gunakan -oN, -oX, atau -oG bila hanya butuh satu format."
+    },
+    {
+      tag: "ADVANCED",
+      q: "Apa fungsi ACK scan (-sA)?",
+      opts: [
+        "Memetakan aturan firewall (mana port yang difilter), bukan menentukan port terbuka",
+        "Menemukan port terbuka lebih cepat daripada SYN scan",
+        "Mendeteksi versi layanan secara akurat",
+        "Melakukan scan pada protokol IP selain TCP dan UDP"
+      ],
+      a: 0,
+      exp: "-sA mengirim paket ACK. Port yang membalas RST dianggap 'unfiltered', yang tidak membalas dianggap 'filtered' — hasilnya tidak menunjukkan open/closed."
+    },
+    {
+      tag: "EVASION",
+      q: "Opsi -D RND:5 pada Nmap digunakan untuk ...",
+      opts: [
+        "Menggunakan 5 alamat IP decoy agar scan tampak berasal dari banyak sumber",
+        "Membatasi scan hanya 5 host",
+        "Mengulang scan maksimal 5 kali",
+        "Mengenkripsi paket scan"
+      ],
+      a: 0,
+      exp: "-D (decoy) menyamarkan sumber scan dengan IP palsu. Teknik ini bagian dari evasion, bukan jaminan anonim, dan hanya untuk pengujian yang sah."
+    },
+    {
+      tag: "ADVANCED",
+      q: "Opsi -A (aggressive scan) setara dengan menggabungkan ...",
+      opts: [
+        "OS detection, version detection, script default, dan traceroute",
+        "Hanya -p- dan -T5",
+        "Hanya UDP scan dan ACK scan",
+        "Hanya host discovery dan output XML"
+      ],
+      a: 0,
+      exp: "-A = -O -sV -sC --traceroute. Sangat informatif tetapi lebih berisik dan lebih lambat, jadi gunakan bijak."
+    },
+    {
+      tag: "BENAR / SALAH",
+      q: "Nmap boleh digunakan untuk memindai jaringan publik mana pun tanpa izin, karena hanya membaca informasi.",
+      opts: ["Benar", "Salah"],
+      a: 1,
+      exp: "SALAH. Scanning tanpa izin bisa melanggar hukum/ToS. Batasi ke lab pribadi, target latihan resmi (mis. scanme.nmap.org), atau jaringan dengan izin tertulis."
+    },
+    {
+      tag: "BENAR / SALAH",
+      q: "SYN scan tidak menyelesaikan TCP handshake, sehingga lebih jarang tercatat di log aplikasi — tetapi tetap dapat terlihat oleh firewall atau IDS.",
+      opts: ["Benar", "Salah"],
+      a: 0,
+      exp: "BENAR. Karena koneksi tidak pernah penuh, aplikasi biasanya tidak mencatat sesi; namun paket SYN tetap terlihat oleh firewall/IDS."
+    },
+    {
+      tag: "BENAR / SALAH",
+      q: "Scan UDP umumnya lebih lambat dan hasilnya kurang pasti dibandingkan scan TCP.",
+      opts: ["Benar", "Salah"],
+      a: 0,
+      exp: "BENAR. UDP tidak punya handshake, jadi Nmap harus menunggu timeout dan menebak dari ICMP unreachable — akibatnya lambat dan lebih ambigu."
+    },
+    {
+      tag: "BENAR / SALAH",
+      q: "Opsi -sT selalu membutuhkan hak akses root.",
+      opts: ["Benar", "Salah"],
+      a: 1,
+      exp: "SALAH. -sT memakai connect() sistem operasi sehingga bisa dijalankan user biasa. Yang butuh root adalah scan berbasis raw packet seperti -sS, -sU, dan -O."
+    },
+    {
+      tag: "BENAR / SALAH",
+      q: "Hasil OS detection Nmap selalu 100% akurat dan tidak pernah salah.",
+      opts: ["Benar", "Salah"],
+      a: 1,
+      exp: "SALAH. OS detection adalah tebakan berbasis fingerprint; hasilnya bisa berupa beberapa kandidat dan bisa keliru, terutama bila ada firewall, NAT, atau VM."
+    }
+  ];
+
+  /* ============================================================
+     STATE & HELPER
+     ============================================================ */
+  const POINT_PER_QUESTION = 4;
+  const state = { deck: [], i: 0, score: 0, answered: false, log: [] };
+
+  const el = function (id) { return document.getElementById(id); };
+  const LETTERS = "ABCDEF";
+
+  function shuffle(list) {
+    const a = list.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const tmp = a[i];
+      a[i] = a[j];
+      a[j] = tmp;
+    }
+    return a;
+  }
+
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function show(screen) {
+    ["start", "quiz", "result"].forEach(function (name) {
+      el("screen-" + name).classList.toggle("hidden", name !== screen);
+    });
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function buildDeck() {
+    return shuffle(QUESTIONS).map(function (item) {
+      const answer = item.opts[item.a];
+      const opts = shuffle(item.opts.map(function (text) {
+        return { text: text, ok: text === answer };
+      }));
+      return { tag: item.tag, q: item.q, exp: item.exp, opts: opts, answer: answer };
+    });
+  }
+
+  /* ============================================================
+     ALUR QUIZ
+     ============================================================ */
+  function startQuiz() {
+    state.deck = buildDeck();
+    state.i = 0;
+    state.score = 0;
+    state.log = [];
+    show("quiz");
+    renderQuestion();
+  }
+
+  function renderQuestion() {
+    const item = state.deck[state.i];
+    const total = state.deck.length;
+    state.answered = false;
+
+    el("counter").textContent = "SOAL " + (state.i + 1) + " / " + total;
+    el("live-score").textContent = "SKOR " + state.score;
+    el("progress").style.width = (state.i / total) * 100 + "%";
+    el("tag").textContent = item.tag;
+    el("question").textContent = item.q;
+
+    const box = el("options");
+    box.innerHTML = "";
+
+    item.opts.forEach(function (opt, idx) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "opt";
+
+      const key = document.createElement("span");
+      key.className = "key";
+      key.textContent = LETTERS[idx];
+
+      const label = document.createElement("span");
+      label.textContent = opt.text;
+
+      btn.appendChild(key);
+      btn.appendChild(label);
+      btn.addEventListener("click", function () { choose(idx); });
+      box.appendChild(btn);
+    });
+
+    const fb = el("feedback");
+    fb.className = "feedback hidden";
+    fb.innerHTML = "";
+
+    const next = el("btn-next");
+    next.disabled = true;
+    next.textContent = (state.i === total - 1) ? "LIHAT HASIL ▸" : "SOAL BERIKUTNYA ▸";
+  }
+
+  function choose(idx) {
+    if (state.answered) return;
+    state.answered = true;
+
+    const item = state.deck[state.i];
+    const picked = item.opts[idx];
+    const buttons = el("options").querySelectorAll(".opt");
+
+    buttons.forEach(function (btn, n) {
+      btn.disabled = true;
+      if (item.opts[n].ok) btn.classList.add("correct");
+      else if (n === idx) btn.classList.add("wrong");
+    });
+
+    if (picked.ok) state.score += POINT_PER_QUESTION;
+    state.log.push({
+      q: item.q,
+      ok: picked.ok,
+      chosen: picked.text,
+      answer: item.answer,
+      exp: item.exp
+    });
+
+    const fb = el("feedback");
+    fb.classList.remove("hidden");
+    if (picked.ok) {
+      fb.classList.remove("bad");
+      fb.innerHTML = "<b>✅ Benar!</b> " + esc(item.exp);
+    } else {
+      fb.classList.add("bad");
+      fb.innerHTML = "<b>❌ Kurang tepat.</b> Jawaban benar: <b>" +
+        esc(item.answer) + "</b>. " + esc(item.exp);
+    }
+
+    el("live-score").textContent = "SKOR " + state.score;
+    el("btn-next").disabled = false;
+  }
+
+  function nextQuestion() {
+    if (!state.answered) return;
+    if (state.i < state.deck.length - 1) {
+      state.i += 1;
+      renderQuestion();
+    } else {
+      finishQuiz();
+    }
+  }
+
+  function gradeFor(score) {
+    if (score >= 92) return "🏆 NMAP MASTER";
+    if (score >= 80) return "🛡️ SOLID — SIAP LANJUT NSE";
+    if (score >= 60) return "📚 CUKUP — ULANG PORT & STATE";
+    return "🔁 PERLU ULANG — BACA NMAP.ORG/BOOK";
+  }
+
+  function finishQuiz() {
+    const total = state.deck.length;
+    const benar = state.log.filter(function (entry) { return entry.ok; }).length;
+
+    el("final-score").textContent = state.score;
+    el("final-sub").textContent = benar + " dari " + total +
+      " jawaban benar · " + state.score + "/100 poin";
+    el("final-grade").textContent = gradeFor(state.score);
+
+    const list = el("review");
+    list.innerHTML = "";
+    state.log.forEach(function (entry, n) {
+      const li = document.createElement("li");
+      const mark = entry.ok
+        ? '<span class="mark-ok">✅ BENAR</span>'
+        : '<span class="mark-err">❌ SALAH</span>';
+      li.innerHTML =
+        mark + ' <span class="rq">' + (n + 1) + ". " + esc(entry.q) + "</span>" +
+        '<div class="ra">Jawabanmu: ' + esc(entry.chosen) +
+        (entry.ok ? "" : " · Kunci: " + esc(entry.answer)) +
+        "<br>💡 " + esc(entry.exp) + "</div>";
+      list.appendChild(li);
+    });
+
+    el("progress").style.width = "100%";
+    show("result");
+  }
+
+  /* ============================================================
+     EVENT BINDING
+     ============================================================ */
+  el("btn-start").addEventListener("click", startQuiz);
+  el("btn-retry").addEventListener("click", startQuiz);
+  el("btn-next").addEventListener("click", nextQuestion);
+  el("btn-quit").addEventListener("click", function () { show("start"); });
+  el("btn-menu").addEventListener("click", function () { show("start"); });
+
+  document.addEventListener("keydown", function (event) {
+    if (el("screen-quiz").classList.contains("hidden")) return;
+    if (event.key === "Enter" && !el("btn-next").disabled) nextQuestion();
+  });
+})();
+</script>
+</body>
+</html>
