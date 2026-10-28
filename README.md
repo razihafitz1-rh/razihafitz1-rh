@@ -74,20 +74,6 @@ Status ........ [ ONLINE ] building // learning
 
 ### `root@nexus:~$ ls ./repositories --pinned`
 
-<!-- GANTI 5 baris di bawah dengan nama repo asli (nama, bahasa utama, fokus). -->
-
-| No | Repository | Language | Focus Area |
-|:--:|:--|:--:|:--|
-| 01 | [`home-lab-docker`](https://github.com/razihafitz1-rh/home-lab-docker) | <img src="https://img.shields.io/badge/Shell-0A0A1F?style=flat-square&logo=gnubash&logoColor=00F0FF" alt="Shell" /> | Containerized lab services and compose stacks <!-- GANTI DENGAN REPO ASLI --> |
-| 02 | [`vuln-lab-setup`](https://github.com/razihafitz1-rh/vuln-lab-setup) | <img src="https://img.shields.io/badge/Python-0A0A1F?style=flat-square&logo=python&logoColor=00F0FF" alt="Python" /> | Isolated vulnerable targets for local practice <!-- GANTI DENGAN REPO ASLI --> |
-| 03 | [`portfolio-site`](https://github.com/razihafitz1-rh/portfolio-site) | <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=flat-square&logo=typescript&logoColor=00F0FF" alt="TypeScript" /> | Personal site built with React and Tailwind <!-- GANTI DENGAN REPO ASLI --> |
-| 04 | [`rest-api-practice`](https://github.com/razihafitz1-rh/rest-api-practice) | <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=flat-square&logo=javascript&logoColor=00F0FF" alt="JavaScript" /> | Node.js REST API experiments and auth flows <!-- GANTI DENGAN REPO ASLI --> |
-| 05 | [`network-notes`](https://github.com/razihafitz1-rh/network-notes) | <img src="https://img.shields.io/badge/Markdown-0A0A1F?style=flat-square&logo=markdown&logoColor=00F0FF" alt="Markdown" /> | VLAN, routing and hardening documentation <!-- GANTI DENGAN REPO ASLI --> |
-
-<!--
-  OPSIONAL: setelah repo asli sudah ada, kartu live bisa ditampilkan dengan baris ini
-  (satu per repo). Jangan dipakai untuk repo yang belum ada, hasilnya kartu error.
-
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=razihafitz1-rh&repo=NAMA_REPO&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF" alt="Repository card for NAMA_REPO" />
 -->
 
