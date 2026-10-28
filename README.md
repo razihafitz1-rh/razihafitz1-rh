@@ -22,7 +22,8 @@
 
 <br />
 
-root@razcyber:~$ cat sysinfo.txt
+<!-- ANIMASI KETIK: SYSINFO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+sysinfo.txt" alt="Typing Command 1" />
 
 <pre>
 <b>razihafitz1-rh@razcyber</b>
@@ -38,14 +39,14 @@ root@razcyber:~$ cat sysinfo.txt
 <b>Status</b> ........ <span style="color:#00F0FF;">[ ONLINE ]</span> building // learning
 </pre>
 
-
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
 
 <br />
 
-root@razcyber:~$ ./packet-run.sh --loop
+<!-- ANIMASI KETIK: PACKET RUN -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1200&pause=500&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fpacket-run.sh+--loop" alt="Typing Command 2" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=600&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
 
@@ -63,7 +64,8 @@ root@razcyber:~$ ./packet-run.sh --loop
 
 <br />
 
-root@razcyber:~$ ls -la ./lab-stack
+<!-- ANIMASI KETIK: LAB STACK -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+ls+-la+.%2Flab-stack" alt="Typing Command 3" />
 
 | Category | Stack |
 |:--|:--|
@@ -79,7 +81,8 @@ root@razcyber:~$ ls -la ./lab-stack
 
 <br />
 
-root@razcyber:~$ cat /var/log/languages.log
+<!-- ANIMASI KETIK: LANGUAGES LOG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
 
@@ -97,7 +100,8 @@ root@razcyber:~$ cat /var/log/languages.log
 
 <br />
 
-root@razcyber:~$ tail -f /var/log/activity.log
+<!-- ANIMASI KETIK: ACTIVITY LOG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1100&pause=500&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+tail+-f+%2Fvar%2Flog%2Factivity.log" alt="Typing Command 5" />
 
 <table>
   <tr>
@@ -118,7 +122,8 @@ root@razcyber:~$ tail -f /var/log/activity.log
 
 <br />
 
-root@razcyber:~$ systemctl status task-queue
+<!-- ANIMASI KETIK: TASK QUEUE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1200&pause=500&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+systemctl+status+task-queue" alt="Typing Command 6" />
 
 | Status | Task |
 |:--|:--|
@@ -134,7 +139,8 @@ root@razcyber:~$ systemctl status task-queue
 
 <br />
 
-root@razcyber:~$ ./connect.sh --all
+<!-- ANIMASI KETIK: CONNECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fconnect.sh+--all" alt="Typing Command 7" />
 
 <a href="https://github.com/razihafitz1-rh">
   <img src="https://img.shields.io/badge/GitHub-razihafitz1--rh-0A0A1F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
