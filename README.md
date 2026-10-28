@@ -26,8 +26,9 @@ OS ............ Kali Linux // Debian // Windows
 Runtime ....... Docker
 Languages ..... Python, JavaScript, TypeScript, Bash
 Web ........... React, Node.js, Express.js, Tailwind CSS
+Design ........ Figma, UI/UX Prototyping
 Security ...... Nmap, Metasploit, Burp Suite, Wireshark
-Focus ......... Home-lab security + full-stack web
+Focus ......... Home-lab security + full-stack web + UI/UX
 Mindset ....... Tinker, Break, Fix, Repeat
 Status ........ [ ONLINE ] building // learning
 
@@ -42,7 +43,7 @@ root@razcyber:~$ ./packet-run.sh --loop
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4300&pause=600&color=B026FF&background=0A0A1F&center=true&vCenter=true&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+TARGET-VM+%5D" alt="Stream 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4300&pause=600&color=B026FF&background=0A0A1F&center=true&vCenter=true&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E" alt="Stream 2" />
 
 <br />
 
@@ -58,7 +59,7 @@ root@razcyber:~$ ls -la ./lab-stack
 |:--|:--|
 | Infrastructure | <img src="https://img.shields.io/badge/Kali_Linux-0A0A1F?style=for-the-badge&logo=kalilinux&logoColor=00F0FF" alt="Kali" /> <img src="https://img.shields.io/badge/Debian-0A0A1F?style=for-the-badge&logo=debian&logoColor=00F0FF" alt="Debian" /> <img src="https://img.shields.io/badge/Windows-0A0A1F?style=for-the-badge&logo=windows&logoColor=00F0FF" alt="Windows" /> <img src="https://img.shields.io/badge/Docker-0A0A1F?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" /> |
 | Languages | <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" /> |
-| Web Development | <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> <img src="https://img.shields.io/badge/Express.js-0A0A1F?style=for-the-badge&logo=express&logoColor=00F0FF" alt="Express" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> |
+| Web & Design | <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" /> |
 | Security Tools | <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=FF2BD6" alt="Nmap" /> <img src="https://img.shields.io/badge/Metasploit-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" alt="Metasploit" /> <img src="https://img.shields.io/badge/Burp_Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" alt="Burp" /> <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=FF2BD6" alt="Wireshark" /> |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
@@ -138,4 +139,3 @@ root@razcyber:~$ ./connect.sh --all
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,50:B026FF,100:00F0FF&height=160&section=footer&text=razihafitz1-rh&fontSize=30&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" alt="Footer" width="100%" />
 
 </div>
-
