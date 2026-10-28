@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=HOME-LAB%20ENTHUSIAST%20AND%20JUNIOR%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" alt="Neon gradient header banner for razihafitz1-rh, home-lab enthusiast and junior full-stack developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CYBER-SECURITY%20JUNIOR%20AND%20JUNIOR%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" alt="Neon gradient header banner for razihafitz1-rh, home-lab enthusiast and junior full-stack developer" width="100%" />
 
 <br />
 
