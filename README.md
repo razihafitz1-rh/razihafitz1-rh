@@ -126,7 +126,15 @@ Status ........ [ ONLINE ] building // learning
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razihafitz1-rh&bg_color=0A0A1F&color=00F0FF&line=B026FF&point=FF2BD6&area=true&hide_border=true" alt="Contribution activity graph for razihafitz1-rh" width="100%" />
+<img src="https://github-readme-stats.xsrazy.web.id/graph?username=razihafitz1-rh&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF&line=B026FF&point=FF2BD6&days=60&custom_title=Activity%20Log" alt="Contribution activity graph for razihafitz1-rh over the last 60 days" width="720" />
+
+<!--
+  CADANGAN: kalau grafik di atas tidak muncul (layanan pihak ketiga sedang down),
+  tukar nilai src dengan URL di bawah ini, atau hapus saja baris gambarnya.
+
+  Layanan lama (Vercel, sempat gagal dimuat):
+  https://github-readme-activity-graph.vercel.app/graph?username=razihafitz1-rh&bg_color=0A0A1F&color=00F0FF&line=B026FF&point=FF2BD6&area=true&hide_border=true
+-->
 
 </div>
 
