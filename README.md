@@ -15,7 +15,11 @@
 
 </div>
 
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ cat sysinfo.txt
 
@@ -33,7 +37,11 @@ Mindset ....... Tinker, Break, Fix, Repeat
 Status ........ [ ONLINE ] building // learning
 
 
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ ./packet-run.sh --loop
 
@@ -51,7 +59,11 @@ root@razcyber:~$ ./packet-run.sh --loop
 
 </div>
 
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ ls -la ./lab-stack
 
@@ -61,8 +73,13 @@ root@razcyber:~$ ls -la ./lab-stack
 | Languages | <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" /> |
 | Web & Design | <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" /> |
 | Security Tools | <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=FF2BD6" alt="Nmap" /> <img src="https://img.shields.io/badge/Metasploit-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" alt="Metasploit" /> <img src="https://img.shields.io/badge/Burp_Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" alt="Burp" /> <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=FF2BD6" alt="Wireshark" /> |
+| **Game Dev & Interactive** | <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=B026FF" alt="Pacman C" /> <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=FF2BD6" alt="Pacman Python" /> |
+
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ cat /var/log/languages.log
 
@@ -80,7 +97,11 @@ root@razcyber:~$ cat /var/log/languages.log
 
 </div>
 
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ tail -f /var/log/activity.log
 
@@ -101,7 +122,11 @@ root@razcyber:~$ tail -f /var/log/activity.log
 
 </div>
 
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ systemctl status task-queue
 
@@ -111,8 +136,13 @@ root@razcyber:~$ systemctl status task-queue
 | [QUEUED] | Deploy intentionally vulnerable VMs and containers for safe local testing |
 | [IN PROGRESS] | Deepen React component architecture and Tailwind CSS design system |
 | [QUEUED] | Learn Node.js and build REST APIs with secure defaults |
+| [QUEUED] | Explore Pac-Man game logic & AI for security simulation |
+
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
 
 root@razcyber:~$ ./connect.sh --all
 
