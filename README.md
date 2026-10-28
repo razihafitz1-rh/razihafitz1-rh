@@ -164,7 +164,7 @@ Status ........ [ ONLINE ] building // learning
 <a href="mailto:razihafitz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0A0A1F?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email contact badge" />
 </a>
-<a href="https://www.buymeacoffee.com/razihafitz1">
+<a href="https://www.buymeacoffee.com/razihafitz@gmail.com">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-0A0A1F?style=for-the-badge&logo=buymeacoffee&logoColor=00F0FF" alt="Buy Me a Coffee support badge" />
 </a>
 
