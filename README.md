@@ -158,7 +158,7 @@ Status ........ [ ONLINE ] building // learning
 <a href="https://github.com/razihafitz1-rh">
   <img src="https://img.shields.io/badge/GitHub-razihafitz1--rh-0A0A1F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub profile link badge" />
 </a>
-<a href="https://www.linkedin.com/in/razihafitz">
+<a href="https://www.linkedin.com/in/razi-hafitz-466bb2403/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A1F?style=for-the-badge&logo=linkedin&logoColor=B026FF" alt="LinkedIn profile link badge" />
 </a>
 <a href="mailto:razihafitz@gmail.com">
