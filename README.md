@@ -24,18 +24,19 @@
 
 root@razcyber:~$ cat sysinfo.txt
 
-text
-razihafitz1-rh@razcyber
-
-OS ............ Kali Linux // Debian // Windows
-Runtime ....... Docker
-Languages ..... Python, JavaScript, TypeScript, Bash
-Web ........... React, Node.js, Express.js, Tailwind CSS
-Design ........ Figma, UI/UX Prototyping
-Security ...... Nmap, Metasploit, Burp Suite, Wireshark
-Focus ......... Home-lab security + full-stack web + UI/UX
-Mindset ....... Tinker, Break, Fix, Repeat
-Status ........ [ ONLINE ] building // learning
+<pre>
+<b>razihafitz1-rh@razcyber</b>
+-------------------------
+<b>OS</b> ............ Kali Linux // Debian // Windows
+<b>Runtime</b> ....... Docker
+<b>Languages</b> ..... Python, JavaScript, TypeScript, Bash
+<b>Web</b> ........... React, Node.js, Express.js, Tailwind CSS
+<b>Design</b> ........ Figma, UI/UX Prototyping
+<b>Security</b> ...... Nmap, Metasploit, Burp Suite, Wireshark
+<b>Focus</b> ......... Home-lab security + full-stack web + UI/UX
+<b>Mindset</b> ....... Tinker, Break, Fix, Repeat
+<b>Status</b> ........ <span style="color:#00F0FF;">[ ONLINE ]</span> building // learning
+</pre>
 
 
 <br />
