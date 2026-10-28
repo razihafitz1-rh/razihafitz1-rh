@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CYBER-SECURITY%20JUNIOR%20AND%20JUNIOR%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" alt="Neon gradient header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=FRONT-END%20DEVELOPER%20AND%20CYBER-SECURITY%20JUNIOR&descSize=15&descAlignY=56&animation=fadeIn" alt="Neon gradient header banner" width="100%" />
 
 <br />
 
@@ -24,7 +24,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: SYSINFO (Diperlambat) -->
+<!-- ANIMASI KETIK: SYSINFO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+sysinfo.txt" alt="Typing Command 1" />
 
 <pre>
@@ -32,11 +32,11 @@
 -------------------------
 <b>OS</b> ............ Kali Linux // Debian // Windows
 <b>Runtime</b> ....... Docker
-<b>Languages</b> ..... Python, JavaScript, TypeScript, Bash
-<b>Web</b> ........... React, Node.js, Express.js, Tailwind CSS
+<b>Languages</b> ..... Python, JavaScript, Lua, Bash
+<b>Web</b> ........... React, Next.js, Tailwind CSS, HTML/CSS
 <b>Design</b> ........ Figma, UI/UX Prototyping
 <b>Security</b> ...... Nmap, Metasploit, Burp Suite, Wireshark
-<b>Focus</b> ......... Home-lab security + full-stack web + UI/UX
+<b>Focus</b> ......... Front-End Web Dev + Cyber Security + UI/UX
 <b>Mindset</b> ....... Tinker, Break, Fix, Repeat
 <b>Status</b> ........ <span style="color:#00F0FF;">[ ONLINE ]</span> building // learning
 </pre>
@@ -47,7 +47,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: PACKET RUN (Diperlambat) -->
+<!-- ANIMASI KETIK: PACKET RUN -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fpacket-run.sh+--loop" alt="Typing Command 2" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
@@ -58,7 +58,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5000&pause=1000&color=FF2BD6&background=0A0A1F&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+NODE-API+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5000&pause=1000&color=FF2BD6&background=0A0A1F&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+API+ENDPOINT+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
 
 <br />
 
@@ -66,7 +66,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: LAB STACK (Diperlambat) -->
+<!-- ANIMASI KETIK: LAB STACK -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+ls+-la+.%2Flab-stack" alt="Typing Command 3" />
 
 <!-- TABEL LAB STACK CUSTOM HTML -->
@@ -89,15 +89,15 @@
     <td style="padding: 15px; border: 1px solid #B026FF;">
       <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> 
       <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> 
-      <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> 
+      <img src="https://img.shields.io/badge/Lua-0A0A1F?style=for-the-badge&logo=lua&logoColor=B026FF" alt="Lua" /> 
       <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" />
     </td>
   </tr>
   <tr>
-    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Web & Design</td>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Front-End & Design</td>
     <td style="padding: 15px; border: 1px solid #B026FF;">
       <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> 
-      <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> 
+      <img src="https://img.shields.io/badge/Next.js-0A0A1F?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" alt="Next.js" /> 
       <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> 
       <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" />
     </td>
@@ -116,7 +116,7 @@
     <td style="padding: 15px; border: 1px solid #B026FF;">
       <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> 
       <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Pacman Python" /> 
-      <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=FF2BD6" alt="Pacman C" />
+      <img src="https://img.shields.io/badge/Love2D_(Lua)-0A0A1F?style=for-the-badge&logo=lua&logoColor=FF2BD6" alt="Lua Game" />
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: LANGUAGES LOG (Diperlambat) -->
+<!-- ANIMASI KETIK: LANGUAGES LOG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
@@ -135,8 +135,8 @@
 <br />
 
 <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Py" />
-<img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=00F0FF" alt="TS" />
 <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JS" />
+<img src="https://img.shields.io/badge/Lua-0A0A1F?style=for-the-badge&logo=lua&logoColor=00F0FF" alt="Lua" />
 <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=00F0FF" alt="Bash" />
 <img src="https://img.shields.io/badge/Markdown-0A0A1F?style=for-the-badge&logo=markdown&logoColor=00F0FF" alt="MD" />
 
@@ -146,7 +146,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: ACTIVITY LOG (Diperlambat) -->
+<!-- ANIMASI KETIK: ACTIVITY LOG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+tail+-f+%2Fvar%2Flog%2Factivity.log" alt="Typing Command 5" />
 
 <table>
@@ -168,7 +168,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: TASK QUEUE (Diperlambat) -->
+<!-- ANIMASI KETIK: TASK QUEUE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+systemctl+status+task-queue" alt="Typing Command 6" />
 
 <!-- TABEL TASK QUEUE CUSTOM HTML -->
@@ -191,11 +191,7 @@
   </tr>
   <tr>
     <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
-    <td style="padding: 15px; border: 1px solid #00F0FF;">Learn Node.js and build REST APIs with secure defaults</td>
-  </tr>
-  <tr>
-    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
-    <td style="padding: 15px; border: 1px solid #00F0FF;">Explore Pac-Man game logic & AI for security simulation</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Explore Lua (Love2D) for front-end game logic and security simulation</td>
   </tr>
 </table>
 
@@ -205,7 +201,7 @@
 
 <br />
 
-<!-- ANIMASI KETIK: CONNECT (Diperlambat) -->
+<!-- ANIMASI KETIK: CONNECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fconnect.sh+--all" alt="Typing Command 7" />
 
 <a href="https://github.com/razihafitz1-rh">
