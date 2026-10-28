@@ -112,11 +112,11 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Game Dev</td>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Pemrograman</td>
     <td style="padding: 15px; border: 1px solid #B026FF;">
-      <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> 
-      <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Pacman Python" /> 
-      <img src="https://img.shields.io/badge/Love2D_(Lua)-0A0A1F?style=for-the-badge&logo=lua&logoColor=FF2BD6" alt="Lua Game" />
+      <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" /> 
+      <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> 
+      <img src="https://img.shields.io/badge/Lua-0A0A1F?style=for-the-badge&logo=lua&logoColor=FF2BD6" alt="Lua" />
     </td>
   </tr>
 </table>
@@ -191,7 +191,7 @@
   </tr>
   <tr>
     <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
-    <td style="padding: 15px; border: 1px solid #00F0FF;">Explore Lua (Love2D) for front-end game logic and security simulation</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Explore Lua (Love2D) for front-end logic and security simulation</td>
   </tr>
 </table>
 
