@@ -2,12 +2,14 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF ===== -->
-<img src="https://raw.githubusercontent.com/coolbutuseless/pacman/main/video/pacman-game.gif" alt="Pac-Man Gameplay" width="400" />
+<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX ===== -->
+<div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
+  <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/main/video/pacman-game.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
+</div>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+docker+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+docker+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
 <br /><br />
 
@@ -22,8 +24,8 @@
 
 <br />
 
-<!-- ANIMASI KETIK: SYSINFO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+sysinfo.txt" alt="Typing Command 1" />
+<!-- ANIMASI KETIK: SYSINFO (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+sysinfo.txt" alt="Typing Command 1" />
 
 <pre>
 <b>razihafitz1-rh@razcyber</b>
@@ -45,35 +47,18 @@
 
 <br />
 
-<!-- ANIMASI KETIK: PACKET RUN -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1200&pause=500&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fpacket-run.sh+--loop" alt="Typing Command 2" />
+<!-- ANIMASI KETIK: PACKET RUN (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fpacket-run.sh+--loop" alt="Typing Command 2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=600&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4300&pause=600&color=B026FF&background=0A0A1F&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E" alt="Stream 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5200&pause=600&color=FF2BD6&background=0A0A1F&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+NODE-API+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4500&pause=1000&color=B026FF&background=0A0A1F&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E" alt="Stream 2" />
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
-
-<br />
-
-<!-- ANIMASI KETIK: LAB STACK -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+ls+-la+.%2Flab-stack" alt="Typing Command 3" />
-
-| Category | Stack |
-|:--|:--|
-| Infrastructure | <img src="https://img.shields.io/badge/Kali_Linux-0A0A1F?style=for-the-badge&logo=kalilinux&logoColor=00F0FF" alt="Kali" /> <img src="https://img.shields.io/badge/Debian-0A0A1F?style=for-the-badge&logo=debian&logoColor=00F0FF" alt="Debian" /> <img src="https://img.shields.io/badge/Windows-0A0A1F?style=for-the-badge&logo=windows&logoColor=00F0FF" alt="Windows" /> <img src="https://img.shields.io/badge/Docker-0A0A1F?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" /> |
-| Languages | <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" /> |
-| Web & Design | <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" /> |
-| Security Tools | <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=FF2BD6" alt="Nmap" /> <img src="https://img.shields.io/badge/Metasploit-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" alt="Metasploit" /> <img src="https://img.shields.io/badge/Burp_Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" alt="Burp" /> <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=FF2BD6" alt="Wireshark" /> |
-| **Game Dev & Interactive** | <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Pacman Python" /> <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=FF2BD6" alt="Pacman C" /> |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5000&pause=1000&color=FF2BD6&background=0A0A1F&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+NODE-API+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
 
 <br />
 
@@ -81,8 +66,69 @@
 
 <br />
 
-<!-- ANIMASI KETIK: LANGUAGES LOG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
+<!-- ANIMASI KETIK: LAB STACK (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+ls+-la+.%2Flab-stack" alt="Typing Command 3" />
+
+<!-- TABEL LAB STACK CUSTOM HTML -->
+<table style="width: 100%; border-collapse: collapse; background-color: #0A0A1F; color: #FFFFFF; border-radius: 10px; overflow: hidden; box-shadow: 0 0 15px #00F0FF;">
+  <tr style="background-color: #0A0A1F; border-bottom: 2px solid #B026FF;">
+    <th style="padding: 15px; border: 1px solid #00F0FF; color: #00F0FF; text-align: left;">Category</th>
+    <th style="padding: 15px; border: 1px solid #00F0FF; color: #00F0FF; text-align: left;">Stack</th>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Infrastructure</td>
+    <td style="padding: 15px; border: 1px solid #B026FF;">
+      <img src="https://img.shields.io/badge/Kali_Linux-0A0A1F?style=for-the-badge&logo=kalilinux&logoColor=00F0FF" alt="Kali" /> 
+      <img src="https://img.shields.io/badge/Debian-0A0A1F?style=for-the-badge&logo=debian&logoColor=00F0FF" alt="Debian" /> 
+      <img src="https://img.shields.io/badge/Windows-0A0A1F?style=for-the-badge&logo=windows&logoColor=00F0FF" alt="Windows" /> 
+      <img src="https://img.shields.io/badge/Docker-0A0A1F?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Languages</td>
+    <td style="padding: 15px; border: 1px solid #B026FF;">
+      <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> 
+      <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> 
+      <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> 
+      <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Web & Design</td>
+    <td style="padding: 15px; border: 1px solid #B026FF;">
+      <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> 
+      <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> 
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> 
+      <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Security Tools</td>
+    <td style="padding: 15px; border: 1px solid #B026FF;">
+      <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=FF2BD6" alt="Nmap" /> 
+      <img src="https://img.shields.io/badge/Metasploit-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" alt="Metasploit" /> 
+      <img src="https://img.shields.io/badge/Burp_Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" alt="Burp" /> 
+      <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=FF2BD6" alt="Wireshark" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #B026FF; font-weight: bold; color: #FF2BD6;">Game Dev</td>
+    <td style="padding: 15px; border: 1px solid #B026FF;">
+      <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> 
+      <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Pacman Python" /> 
+      <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=FF2BD6" alt="Pacman C" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
+
+<!-- ANIMASI KETIK: LANGUAGES LOG (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
 
@@ -100,8 +146,8 @@
 
 <br />
 
-<!-- ANIMASI KETIK: ACTIVITY LOG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1100&pause=500&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+tail+-f+%2Fvar%2Flog%2Factivity.log" alt="Typing Command 5" />
+<!-- ANIMASI KETIK: ACTIVITY LOG (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+tail+-f+%2Fvar%2Flog%2Factivity.log" alt="Typing Command 5" />
 
 <table>
   <tr>
@@ -122,16 +168,36 @@
 
 <br />
 
-<!-- ANIMASI KETIK: TASK QUEUE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1200&pause=500&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+systemctl+status+task-queue" alt="Typing Command 6" />
+<!-- ANIMASI KETIK: TASK QUEUE (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF2BD6&background=0A0A1F&lines=root%40razcyber%3A~%24+systemctl+status+task-queue" alt="Typing Command 6" />
 
-| Status | Task |
-|:--|:--|
-| [IN PROGRESS] | Configure virtual network segmentation and VLAN layout for the lab |
-| [QUEUED] | Deploy intentionally vulnerable VMs and containers for safe local testing |
-| [IN PROGRESS] | Deepen React component architecture and Tailwind CSS design system |
-| [QUEUED] | Learn Node.js and build REST APIs with secure defaults |
-| [QUEUED] | Explore Pac-Man game logic & AI for security simulation |
+<!-- TABEL TASK QUEUE CUSTOM HTML -->
+<table style="width: 100%; border-collapse: collapse; background-color: #0A0A1F; color: #FFFFFF; border-radius: 10px; overflow: hidden; box-shadow: 0 0 15px #B026FF;">
+  <tr style="background-color: #0A0A1F; border-bottom: 2px solid #00F0FF;">
+    <th style="padding: 15px; border: 1px solid #B026FF; color: #FF2BD6; text-align: left;">Status</th>
+    <th style="padding: 15px; border: 1px solid #B026FF; color: #FF2BD6; text-align: left;">Task</th>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #00F0FF;">[IN PROGRESS]</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Configure virtual network segmentation and VLAN layout for the lab</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Deploy intentionally vulnerable VMs and containers for safe local testing</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #00F0FF;">[IN PROGRESS]</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Deepen React component architecture and Tailwind CSS design system</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Learn Node.js and build REST APIs with secure defaults</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; border: 1px solid #00F0FF; font-weight: bold; color: #B026FF;">[QUEUED]</td>
+    <td style="padding: 15px; border: 1px solid #00F0FF;">Explore Pac-Man game logic & AI for security simulation</td>
+  </tr>
+</table>
 
 <br />
 
@@ -139,8 +205,8 @@
 
 <br />
 
-<!-- ANIMASI KETIK: CONNECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=500&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fconnect.sh+--all" alt="Typing Command 7" />
+<!-- ANIMASI KETIK: CONNECT (Diperlambat) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fconnect.sh+--all" alt="Typing Command 7" />
 
 <a href="https://github.com/razihafitz1-rh">
   <img src="https://img.shields.io/badge/GitHub-razihafitz1--rh-0A0A1F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
@@ -158,6 +224,6 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&background=0A0A1F&width=820&height=50&lines=%22Build+it%2C+break+it%2C+understand+it%2C+then+build+it+better.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=B026FF&background=0A0A1F&width=820&height=50&lines=%22Build+it%2C+break+it%2C+understand+it%2C+then+build+it+better.%22" alt="Quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,50:B026FF,100:00F0FF&height=160&section=footer&text=razihafitz1-rh&fontSize=30&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" alt="Footer" width="100%" />
