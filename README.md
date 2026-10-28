@@ -171,19 +171,6 @@ root@razcyber:~$ ./connect.sh --all
 
 <br />
 
-root@razcyber:~$ cat ./classic-arcade-collection
-
-<div align="center">
-
-| Repositori Pac-Man | Teknologi | Deskripsi |
-|:--|:--|:--|
-| **[bward2/pacman-js](https://github.com/bward2/pacman-js)** | JavaScript, HTML, CSS | *Clone* Pac-Man klasik. Solid, punya *unit test* lengkap (100% *coverage*), dan *linting*. Bagus untuk belajar praktik *clean code* di proyek *game*.[reference:3] |
-| **[sean-foley/pacman](https://github.com/sean-foley/pacman)** | Python | Implementasi Pac-Man yang sangat akurat secara *arcade* (termasuk *bug* AI hantu asli). Dibangun hampir seluruhnya oleh agen AI lokal. Menarik untuk melihat kapabilitas *local LLM* dalam *coding*.[reference:4] |
-
-</div>
-
-<br />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&background=0A0A1F&center=true&vCenter=true&width=820&height=50&lines=%22Build+it%2C+break+it%2C+understand+it%2C+then+build+it+better.%22" alt="Quote" />
