@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=CYBER-SECURITY%20JUNIOR%20AND%20JUNIOR%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56&animation=fadeIn" alt="Neon gradient header banner" width="100%" />
 
 <br />
@@ -17,8 +15,6 @@
 <img src="https://img.shields.io/badge/ENV-HOME--LAB-B026FF?style=for-the-badge&labelColor=0A0A1F" alt="Env" />
 <img src="https://img.shields.io/badge/MODE-BUILD--AND--LEARN-FF2BD6?style=for-the-badge&labelColor=0A0A1F" alt="Mode" />
 <img src="https://komarev.com/ghpvc/?username=razihafitz1-rh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Views" />
-
-</div>
 
 <br />
 
@@ -50,19 +46,15 @@ Status ........ [ ONLINE ] building // learning
 
 root@razcyber:~$ ./packet-run.sh --loop
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=600&color=00F0FF&background=0A0A1F&center=true&vCenter=true&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=600&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4300&pause=600&color=B026FF&background=0A0A1F&center=true&vCenter=true&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E" alt="Stream 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4300&pause=600&color=B026FF&background=0A0A1F&width=860&height=34&lines=%5B+ROUTER+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E+%5B+VLAN-10+%5D+%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E%3A%3A%3A%3A%3E%3E%3E" alt="Stream 2" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5200&pause=600&color=FF2BD6&background=0A0A1F&center=true&vCenter=true&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+NODE-API+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5200&pause=600&color=FF2BD6&background=0A0A1F&width=860&height=34&lines=%5B+REACT-APP+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+NODE-API+%5D+%3E%3E%3E%3E%3E%3E%3E%3E%3E+%5B+DB+%5D" alt="Stream 3" />
 
 <br />
 
@@ -88,8 +80,6 @@ root@razcyber:~$ ls -la ./lab-stack
 
 root@razcyber:~$ cat /var/log/languages.log
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
 
 <br />
@@ -100,8 +90,6 @@ root@razcyber:~$ cat /var/log/languages.log
 <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=00F0FF" alt="Bash" />
 <img src="https://img.shields.io/badge/Markdown-0A0A1F?style=for-the-badge&logo=markdown&logoColor=00F0FF" alt="MD" />
 
-</div>
-
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
@@ -110,22 +98,18 @@ root@razcyber:~$ cat /var/log/languages.log
 
 root@razcyber:~$ tail -f /var/log/activity.log
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&count_private=true&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF" alt="Stats" height="180" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://streak-stats.demolab.com?user=razihafitz1-rh&background=0A0A1F&border=B026FF&stroke=B026FF&ring=00F0FF&fire=FF2BD6&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9AA4C4" alt="Streak" height="180" />
     </td>
   </tr>
 </table>
 
 <img src="https://github-readme-stats.xsrazy.web.id/graph?username=razihafitz1-rh&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF&line=B026FF&point=FF2BD6&days=60&custom_title=Activity%20Log" alt="Activity Graph" width="720" />
-
-</div>
 
 <br />
 
@@ -151,8 +135,6 @@ root@razcyber:~$ systemctl status task-queue
 
 root@razcyber:~$ ./connect.sh --all
 
-<div align="center">
-
 <a href="https://github.com/razihafitz1-rh">
   <img src="https://img.shields.io/badge/GitHub-razihafitz1--rh-0A0A1F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
 </a>
@@ -163,18 +145,12 @@ root@razcyber:~$ ./connect.sh --all
   <img src="https://img.shields.io/badge/Email-Contact-0A0A1F?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email" />
 </a>
 
-</div>
-
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
 
 <br />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&background=0A0A1F&center=true&vCenter=true&width=820&height=50&lines=%22Build+it%2C+break+it%2C+understand+it%2C+then+build+it+better.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=B026FF&background=0A0A1F&width=820&height=50&lines=%22Build+it%2C+break+it%2C+understand+it%2C+then+build+it+better.%22" alt="Quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,50:B026FF,100:00F0FF&height=160&section=footer&text=razihafitz1-rh&fontSize=30&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" alt="Footer" width="100%" />
-
-</div>
