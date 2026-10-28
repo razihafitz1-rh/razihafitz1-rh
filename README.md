@@ -4,6 +4,11 @@
 
 <br />
 
+<!-- ===== PAC-MAN ANIMATED GIF ===== -->
+<img src="https://raw.githubusercontent.com/coolbutuseless/pacman/main/video/pacman-game.gif" alt="Pac-Man Gameplay" width="400" />
+
+<br /><br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+docker+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
 <br /><br />
@@ -73,7 +78,7 @@ root@razcyber:~$ ls -la ./lab-stack
 | Languages | <img src="https://img.shields.io/badge/Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-0A0A1F?style=for-the-badge&logo=javascript&logoColor=B026FF" alt="JS" /> <img src="https://img.shields.io/badge/TypeScript-0A0A1F?style=for-the-badge&logo=typescript&logoColor=B026FF" alt="TS" /> <img src="https://img.shields.io/badge/Bash-0A0A1F?style=for-the-badge&logo=gnubash&logoColor=B026FF" alt="Bash" /> |
 | Web & Design | <img src="https://img.shields.io/badge/React-0A0A1F?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" /> <img src="https://img.shields.io/badge/Node.js-0A0A1F?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A1F?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind" /> <img src="https://img.shields.io/badge/Figma-0A0A1F?style=for-the-badge&logo=figma&logoColor=FF2BD6" alt="Figma" /> |
 | Security Tools | <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=FF2BD6" alt="Nmap" /> <img src="https://img.shields.io/badge/Metasploit-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=FF2BD6" alt="Metasploit" /> <img src="https://img.shields.io/badge/Burp_Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6" alt="Burp" /> <img src="https://img.shields.io/badge/Wireshark-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=FF2BD6" alt="Wireshark" /> |
-| **Game Dev & Interactive** | <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=B026FF" alt="Pacman C" /> <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=FF2BD6" alt="Pacman Python" /> |
+| **Game Dev & Interactive** | <img src="https://img.shields.io/badge/Pacman_JS-0A0A1F?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="Pacman JS" /> <img src="https://img.shields.io/badge/Pacman_Python-0A0A1F?style=for-the-badge&logo=python&logoColor=B026FF" alt="Pacman Python" /> <img src="https://img.shields.io/badge/Pacman_C99-0A0A1F?style=for-the-badge&logo=c&logoColor=FF2BD6" alt="Pacman C" /> |
 
 <br />
 
@@ -157,6 +162,23 @@ root@razcyber:~$ ./connect.sh --all
 <a href="mailto:razihafitz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0A0A1F?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email" />
 </a>
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
+
+<br />
+
+root@razcyber:~$ cat ./classic-arcade-collection
+
+<div align="center">
+
+| Repositori Pac-Man | Teknologi | Deskripsi |
+|:--|:--|:--|
+| **[bward2/pacman-js](https://github.com/bward2/pacman-js)** | JavaScript, HTML, CSS | *Clone* Pac-Man klasik. Solid, punya *unit test* lengkap (100% *coverage*), dan *linting*. Bagus untuk belajar praktik *clean code* di proyek *game*.[reference:3] |
+| **[sean-foley/pacman](https://github.com/sean-foley/pacman)** | Python | Implementasi Pac-Man yang sangat akurat secara *arcade* (termasuk *bug* AI hantu asli). Dibangun hampir seluruhnya oleh agen AI lokal. Menarik untuk melihat kapabilitas *local LLM* dalam *coding*.[reference:4] |
 
 </div>
 
