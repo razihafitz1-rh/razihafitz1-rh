@@ -2,19 +2,12 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF (GitHub 原生直链，最稳定) ===== -->
+<!-- ===== PAC-MAN ANIMATED GIF ===== -->
 <div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
   <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/master/video/pacman.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
 </div>
 
 <br /><br />
-
-<!-- ===== GitHub Snake (已修复：指向 output 分支的绝对路径) ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/razihafitz1-rh/razihafitz1-rh/output/github-snake.svg" />
-</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+network+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
@@ -125,6 +118,7 @@
     </td>
   </tr>
 </table>
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:00F0FF&height=4&section=header" alt="Divider" width="100%" />
