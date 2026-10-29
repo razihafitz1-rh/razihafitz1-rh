@@ -2,14 +2,14 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX (URL Diperbaiki) ===== -->
+<!-- ===== PAC-MAN ANIMATED GIF (GitHub 原生直链，最稳定) ===== -->
 <div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
-  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/master/video/pacman.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
 </div>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+docker+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+network+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
 <br /><br />
 
@@ -31,7 +31,6 @@
 <b>razihafitz1-rh@razcyber</b>
 -------------------------
 <b>OS</b> ............ Kali Linux // Debian // Windows
-<b>Runtime</b> ....... Docker
 <b>Languages</b> ..... Python, JavaScript, Lua, Bash
 <b>Web</b> ........... React, Next.js, Tailwind CSS, HTML/CSS
 <b>Design</b> ........ Figma, UI/UX Prototyping
@@ -50,7 +49,7 @@
 <!-- ANIMASI KETIK: PACKET RUN -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B026FF&background=0A0A1F&lines=root%40razcyber%3A~%24+.%2Fpacket-run.sh+--loop" alt="Typing Command 2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+DOCKER+%5D" alt="Stream 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=00F0FF&background=0A0A1F&width=860&height=34&lines=%5B+KALI-VM+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+ROUTER+%5D+%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E%3D%3D%3D%3D%3E%3E%3E+%5B+WINDOWS-VM+%5D" alt="Stream 1" />
 
 <br />
 
