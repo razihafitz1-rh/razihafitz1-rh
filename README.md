@@ -8,7 +8,10 @@
 </div>
 
 <br /><br />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+network+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
 <br /><br />
