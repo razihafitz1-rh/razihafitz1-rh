@@ -2,9 +2,9 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX (diperbaiki: GIF stabil dari user-images) ===== -->
+<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX (URL Diperbaiki) ===== -->
 <div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding animation" width="400" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
 </div>
 
 <br /><br />
@@ -80,8 +80,7 @@
     <td style="padding: 15px; border: 1px solid #B026FF;">
       <img src="https://img.shields.io/badge/Kali_Linux-0A0A1F?style=for-the-badge&logo=kalilinux&logoColor=00F0FF" alt="Kali" /> 
       <img src="https://img.shields.io/badge/Debian-0A0A1F?style=for-the-badge&logo=debian&logoColor=00F0FF" alt="Debian" /> 
-      <img src="https://img.shields.io/badge/Windows-0A0A1F?style=for-the-badge&logo=windows&logoColor=00F0FF" alt="Windows" /> 
-      <img src="https://img.shields.io/badge/Docker-0A0A1F?style=for-the-badge&logo=docker&logoColor=00F0FF" alt="Docker" />
+      <img src="https://img.shields.io/badge/Windows-0A0A1F?style=for-the-badge&logo=windows&logoColor=00F0FF" alt="Windows" />
     </td>
   </tr>
   <tr>
