@@ -2,9 +2,9 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX ===== -->
+<!-- ===== PAC-MAN ANIMATED GIF WITH SHADOW BOX (diperbaiki: GIF stabil dari user-images) ===== -->
 <div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
-  <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/main/video/pacman-game.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding animation" width="400" style="border-radius: 8px;" />
 </div>
 
 <br /><br />
@@ -130,7 +130,8 @@
 <!-- ANIMASI KETIK: LANGUAGES LOG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
+<!-- Top-Langs: ditambahkan cache_seconds agar lebih stabil (diperbaiki) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF&cache_seconds=86400" alt="Langs" height="180" />
 
 <br />
 
@@ -152,7 +153,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&count_private=true&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF" alt="Stats" height="180" />
+      <!-- Stats: ditambahkan cache_seconds (diperbaiki) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&count_private=true&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF&cache_seconds=86400" alt="Stats" height="180" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=razihafitz1-rh&background=0A0A1F&border=B026FF&stroke=B026FF&ring=00F0FF&fire=FF2BD6&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9AA4C4" alt="Streak" height="180" />
@@ -160,7 +162,8 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.xsrazy.web.id/graph?username=razihafitz1-rh&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF&line=B026FF&point=FF2BD6&days=60&custom_title=Activity%20Log" alt="Activity Graph" width="720" />
+<!-- Activity Graph: diganti ke endpoint resmi & stabil (diperbaiki) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razihafitz1-rh&bg_color=0A0A1F&color=00F0FF&line=B026FF&point=FF2BD6&area_color=00F0FF&title_color=00F0FF&area=true&custom_title=Activity%20Log&days=60" alt="Activity Graph" width="720" />
 
 <br />
 
