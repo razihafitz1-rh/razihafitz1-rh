@@ -2,10 +2,10 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF ===== -->
-<div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
-  <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/master/video/pacman.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
-</div>
+<!-- ===== PAC-MAN ANIMATED SVG (file lokal: taruh pacman.svg di folder yang sama dengan README.md) ===== -->
+<p align="center">
+  <img src="./pacman.svg" alt="Pac-Man Animation" width="420" />
+</p>
 
 <br /><br />
 
@@ -128,8 +128,8 @@
 <!-- ANIMASI KETIK: LANGUAGES LOG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F0FF&background=0A0A1F&lines=root%40razcyber%3A~%24+cat+%2Fvar%2Flog%2Flanguages.log" alt="Typing Command 4" />
 
-<!-- Top-Langs: FIXED -> github-stats-extended.vercel.app -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
+<!-- Top languages: github-readme-stats (instance publik) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&border_color=B026FF" alt="Langs" height="180" />
 
 <br />
 
@@ -151,8 +151,8 @@
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats: FIXED -> github-stats-extended.vercel.app -->
-      <img src="https://github-stats-extended.vercel.app/api?username=razihafitz1-rh&show_icons=true&count_private=true&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF" alt="Stats" height="180" />
+      <!-- GitHub stats: github-readme-stats (instance publik) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&count_private=true&theme=radical&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF&border_color=B026FF" alt="Stats" height="180" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=razihafitz1-rh&background=0A0A1F&border=B026FF&stroke=B026FF&ring=00F0FF&fire=FF2BD6&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9AA4C4" alt="Streak" height="180" />
@@ -160,8 +160,8 @@
   </tr>
 </table>
 
-<!-- Activity Graph: FIXED -> graph.fasu.dev -->
-<img src="https://graph.fasu.dev/graph?user=razihafitz1-rh&bg_color=0A0A1F&color=00F0FF&line=B026FF&point=FF2BD6&area_color=00F0FF&title_color=00F0FF&area=true" alt="Activity Graph" width="720" />
+<!-- Activity graph: github-readme-activity-graph (deployment utama) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razihafitz1-rh&theme=react-dark&title_color=00F0FF&color=FFFFFF&line=B026FF&point=FF2BD6" alt="Activity Graph" width="720" />
 
 <br />
 
