@@ -2,13 +2,6 @@
 
 <br />
 
-<!-- ===== PAC-MAN ANIMATED GIF ===== -->
-<div style="display: inline-block; padding: 15px; background: #0A0A1F; border: 3px solid #B026FF; border-radius: 15px; box-shadow: 0px 0px 30px #00F0FF, inset 0px 0px 20px #B026FF;">
-  <img src="https://raw.githubusercontent.com/coolbutuseless/pacman/master/video/pacman.gif" alt="Pac-Man Gameplay" width="400" style="border-radius: 8px;" />
-</div>
-
-<br /><br />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+mounting+home-lab;%5B+OK+%5D+network+daemon+online;%5B+OK+%5D+virtual+networks+up;%5B+OK+%5D+user+razihafitz1-rh+authenticated;root%40razcyber%3A~%24+ready" alt="Animated terminal boot log" />
 
 <br /><br />
