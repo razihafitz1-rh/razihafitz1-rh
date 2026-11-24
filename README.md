@@ -1,37 +1,34 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=razihafitz1-rh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=JUNIOR%20FULL%20STACK%20DEVELOPER%20%7C%20SECURITY%20AUDIT&descSize=15&descAlignY=56&animation=fadeIn" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,45:B026FF,100:00F0FF&height=210&section=header&text=FULL%20STACK%20%26%20SECURITY&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=JUNIOR%20DEVELOPER%20%7C%20SECURITY%20AUDIT%20LEARNER&descSize=15&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+frontend+environment+ready;%5B+OK+%5D+backend+services+initialized;%5B+OK+%5D+database+connection+established;%5B+OK+%5D+security+lab+initialized;razparrot%40razcyber%3A~%24+ready" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&background=0A0A1F&multiline=true&width=640&height=165&lines=%5B+OK+%5D+frontend+environment+ready;%5B+OK+%5D+backend+environment+initialized;%5B+OK+%5D+database+connection+tested;%5B+OK+%5D+security+lab+initialized;razparrot%40razcyber%3A~%24+learning..." />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING-00F0FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/ROLE-JUNIOR%20FULL%20STACK-B026FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/FOCUS-SECURITY%20AUDIT-FF2BD6?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/LEVEL-JUNIOR-B026FF?style=for-the-badge&labelColor=0A0A1F"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20SECURITY-FF2BD6?style=for-the-badge&labelColor=0A0A1F"/>
 <img src="https://komarev.com/ghpvc/?username=razihafitz1-rh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge"/>
 
 ---
 
-## `root@razcyber:~$ cat about-me.txt`
+## `root@razcyber:~$ cat profile.txt`
 
 ```text
-razihafitz1-rh@razcyber
--------------------------------
 ROLE       : Junior Full Stack Developer
-INTEREST   : Web Development & Security Audit
-FRONTEND   : React, Next.js, Tailwind CSS
-BACKEND    : PHP, Laravel, Node.js, Express
+LEVEL      : Beginner
+INTEREST   : Web Development & Cybersecurity
+FRONTEND   : HTML, CSS, JavaScript, React
+BACKEND    : PHP, Laravel, Node.js
 DATABASE   : MySQL, MariaDB, PostgreSQL
 SECURITY   : Nmap, Burp Suite, Wireshark
 SYSTEM     : Linux, Windows, VMware
-WORKFLOW   : Build -> Test -> Audit -> Improve
-STATUS     : Learning and building projects
+WORKFLOW   : Learn -> Build -> Test -> Improve
+STATUS     : Learning and building small projects
 ```
-
-I'm interested in building complete web applications, developing backend services, managing databases, and understanding how to identify and improve web application security.
-
-My goal is to combine full-stack development with practical security auditing.
 
 ---
 
@@ -49,7 +46,7 @@ My goal is to combine full-stack development with practical security auditing.
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,linux,bash" />
 
-### Security Audit & Testing
+### Security Learning
 
 <img src="https://img.shields.io/badge/Nmap-0A0A1F?style=for-the-badge&logo=nmap&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6"/>
@@ -60,23 +57,32 @@ My goal is to combine full-stack development with practical security auditing.
 
 ## `root@razcyber:~$ ./development-workflow.sh`
 
-| Area | Focus |
+| Area | Learning Focus |
 |---|---|
-| Frontend | Responsive interfaces, React components, UI implementation |
-| Backend | REST APIs, authentication, server-side logic |
-| Database | SQL queries, schema design, relationships |
-| Integration | Frontend and backend API integration |
-| Security Audit | Authorized reconnaissance and vulnerability assessment |
-| Testing | Functional testing and security validation |
-| Documentation | Technical documentation and security reports |
+| Frontend | HTML, CSS, JavaScript, responsive interfaces |
+| Backend | PHP, Laravel, REST API fundamentals |
+| Database | SQL queries, table relationships, database design |
+| Integration | Connecting frontend and backend |
+| Security | Basic web security concepts and security auditing |
+| Testing | Functional testing and basic security validation |
+| Documentation | Project notes and technical documentation |
 
 ---
 
 ## `root@razcyber:~$ ./security-audit.sh`
 
-My security learning focuses on understanding web application vulnerabilities and improving application security.
+Current learning interests:
 
-**Security workflow:**
+- Web application security fundamentals
+- Authentication and authorization
+- Input validation
+- SQL injection prevention
+- Cross-Site Scripting (XSS) prevention
+- API security basics
+- Network reconnaissance
+- Security configuration review
+
+**Basic security workflow:**
 
 ```text
 01. SCOPE DEFINITION
@@ -94,17 +100,6 @@ My security learning focuses on understanding web application vulnerabilities an
 07. REMEDIATION & RETESTING
 ```
 
-**Areas of interest:**
-
-- Web application security
-- Authentication and authorization
-- Input validation
-- SQL injection prevention
-- Cross-Site Scripting (XSS) prevention
-- API security
-- Network reconnaissance
-- Security configuration review
-
 All security testing is performed on systems I own or have explicit permission to assess.
 
 ---
@@ -118,24 +113,24 @@ HOME LAB STATUS
 [ONLINE]  Debian Server
 [ONLINE]  Database Environment
 [ONLINE]  VMware Virtualization
-[ACTIVE]  Web Development Projects
-[ACTIVE]  Security Audit Learning
+[ACTIVE]  Web Development Practice
+[ACTIVE]  Security Learning
 --------------------------------
-MODE: BUILD | TEST | AUDIT | IMPROVE
+MODE: LEARN | BUILD | TEST | IMPROVE
 ```
 
 ### Lab Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,debian,kali,windows,docker,nginx" />
 
-Current learning environment:
+Current lab environment:
 
 - Linux development environment
-- Debian Server administration
+- Debian Server practice
 - VMware virtual machines
 - Database server configuration
-- Web application testing
-- Local security testing lab
+- Local web application testing
+- Basic network and security experiments
 
 ---
 
@@ -151,34 +146,28 @@ Current learning environment:
 
 ## `root@razcyber:~$ cat task-queue.log`
 
-| Status | Task |
+| Status | Learning Goals |
 |---|---|
-| IN PROGRESS | Build full-stack web applications |
-| IN PROGRESS | Improve Laravel and REST API development |
-| IN PROGRESS | Practice React and Next.js architecture |
-| IN PROGRESS | Develop SQL database management skills |
-| IN PROGRESS | Learn web application security auditing |
-| PLANNED | Create security assessment reports |
-| PLANNED | Improve Docker and deployment workflow |
+| IN PROGRESS | Improve HTML, CSS, and JavaScript |
+| IN PROGRESS | Practice React and Next.js |
+| IN PROGRESS | Learn Laravel and REST API development |
+| IN PROGRESS | Improve SQL and database management |
+| IN PROGRESS | Build small full-stack projects |
+| IN PROGRESS | Study web application security |
+| PLANNED | Create a personal security audit report |
+| PLANNED | Learn Docker and deployment basics |
 
 ---
 
-## `root@razcyber:~$ ./connect.sh`
-
-<a href="https://github.com/razihafitz1-rh">
-<img src="https://img.shields.io/badge/GitHub-razihafitz1--rh-0A0A1F?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/razi-hafitz-466bb2403/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A1F?style=for-the-badge&logo=linkedin&logoColor=B026FF"/>
-</a>
+## `root@razcyber:~$ ./contact.sh`
 
 <a href="mailto:razihafitz@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0A0A1F?style=for-the-badge&logo=gmail&logoColor=FF2BD6"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=B026FF&background=0A0A1F&width=820&height=50&lines=%22Build+applications.+Understand+security.+Make+the+web+better.%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=B026FF&background=0A0A1F&width=820&height=50&lines=%22Learn.+Build.+Test.+Improve.+Repeat.%22"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,50:B026FF,100:00F0FF&height=160&section=footer&text=razihafitz1-rh&fontSize=30&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050F,50:B026FF,100:00F0FF&height=160&section=footer&text=BUILDING+STEP+BY+STEP&fontSize=27&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%"/>
+
