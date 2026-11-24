@@ -8,9 +8,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=120&lines=%5B+OK+%5D+Frontend+environment+ready;%5B+OK+%5D+Backend+environment+initialized;%5B+OK+%5D+Database+environment+ready;%5B+OK+%5D+Security+lab+initialized;razparrot%40razcyber%3A~%24+learning..." alt="Terminal animation"/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00F0FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/LEVEL-JUNIOR-B026FF?style=for-the-badge&labelColor=0A0A1F"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%26%20SECURITY-FF2BD6?style=for-the-badge&labelColor=0A0A1F"/>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00F0FF?style=for-the-badge&labelColor=0A0A1F" alt="Status"/>
+<img src="https://img.shields.io/badge/LEVEL-JUNIOR-B026FF?style=for-the-badge&labelColor=0A0A1F" alt="Level"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%26%20SECURITY-FF2BD6?style=for-the-badge&labelColor=0A0A1F" alt="Focus"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=razihafitz1-rh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -29,7 +37,7 @@ FRONTEND   : HTML, CSS, JavaScript, React
 BACKEND    : PHP, Laravel, Node.js
 DATABASE   : MySQL, MariaDB, PostgreSQL
 SECURITY   : Web Security, Network Security, Auditing
-AI TOOLS   : 9Router, OpenCode, Ollama
+AI TOOLS   : 9Router, OpenCode
 SYSTEM     : Parrot OS, Kali Linux, Debian, Windows
 VIRTUAL    : VMware
 WORKFLOW   : Learn -> Build -> Test -> Improve
@@ -70,44 +78,62 @@ STATUS     : Learning and building projects
 
 ### 01 · INFORMATION GATHERING
 
-<img src="https://img.shields.io/badge/Nmap-Network%20Discovery-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WHOIS-Domain%20Lookup-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dig-DNS%20Lookup-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WhatWeb-Web%20Fingerprinting-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/theHarvester-OSINT-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Discovery-0A0A1F?style=for-the-badge" alt="Nmap"/>
+<img src="https://img.shields.io/badge/WHOIS-Domain%20Lookup-0A0A1F?style=for-the-badge" alt="WHOIS"/>
+<img src="https://img.shields.io/badge/Dig-DNS%20Lookup-0A0A1F?style=for-the-badge" alt="Dig"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/WhatWeb-Web%20Fingerprinting-0A0A1F?style=for-the-badge" alt="WhatWeb"/>
+<img src="https://img.shields.io/badge/theHarvester-OSINT-0A0A1F?style=for-the-badge" alt="theHarvester"/>
 
 ### 02 · WEB APPLICATION SECURITY
 
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-0A0A1F?style=for-the-badge&logo=burpsuite"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-Web%20Security-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLmap-SQL%20Injection%20Testing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nikto-Web%20Server%20Testing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ffuf-Web%20Fuzzing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-Content%20Discovery-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-0A0A1F?style=for-the-badge&logo=burpsuite" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-Web%20Security-0A0A1F?style=for-the-badge" alt="OWASP ZAP"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQLmap-SQL%20Injection%20Testing-0A0A1F?style=for-the-badge" alt="SQLmap"/>
+<img src="https://img.shields.io/badge/Nikto-Web%20Server%20Testing-0A0A1F?style=for-the-badge" alt="Nikto"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ffuf-Web%20Fuzzing-0A0A1F?style=for-the-badge" alt="ffuf"/>
+<img src="https://img.shields.io/badge/Gobuster-Content%20Discovery-0A0A1F?style=for-the-badge" alt="Gobuster"/>
 
 ### 03 · NETWORK ANALYSIS
 
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-0A0A1F?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/tcpdump-Packet%20Capture-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netcat-Network%20Utility-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Traceroute-Network%20Diagnostics-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-0A0A1F?style=for-the-badge&logo=wireshark" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/tcpdump-Packet%20Capture-0A0A1F?style=for-the-badge" alt="tcpdump"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Netcat-Network%20Utility-0A0A1F?style=for-the-badge" alt="Netcat"/>
+<img src="https://img.shields.io/badge/Traceroute-Network%20Diagnostics-0A0A1F?style=for-the-badge" alt="Traceroute"/>
 
 ### 04 · VULNERABILITY ASSESSMENT
 
-<img src="https://img.shields.io/badge/Metasploit-Security%20Testing-0A0A1F?style=for-the-badge&logo=metasploit"/>
-<img src="https://img.shields.io/badge/Greenbone-Vulnerability%20Assessment-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-Security%20Testing-0A0A1F?style=for-the-badge&logo=metasploit" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Greenbone-Vulnerability%20Assessment-0A0A1F?style=for-the-badge" alt="Greenbone"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-0A0A1F?style=for-the-badge" alt="OpenVAS"/>
 
 ### 05 · DIGITAL FORENSICS
 
-<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-0A0A1F?style=for-the-badge" alt="Autopsy"/>
+<img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-0A0A1F?style=for-the-badge" alt="Volatility"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-0A0A1F?style=for-the-badge" alt="ExifTool"/>
 
 ### 06 · PASSWORD SECURITY
 
-<img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Auditing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hashcat-Hash%20Auditing-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Auditing-0A0A1F?style=for-the-badge" alt="John the Ripper"/>
+<img src="https://img.shields.io/badge/Hashcat-Hash%20Auditing-0A0A1F?style=for-the-badge" alt="Hashcat"/>
 
 </div>
 
@@ -119,14 +145,15 @@ STATUS     : Learning and building projects
 
 ### AI & CODING ENVIRONMENT
 
-<img src="https://img.shields.io/badge/9Router-AI%20Model%20Routing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCode-AI%20Coding%20Agent-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20LLM-0A0A1F?style=for-the-badge&logo=ollama"/>
-<img src="https://img.shields.io/badge/OpenRouter-AI%20API-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/9Router-AI%20Model%20Routing-0A0A1F?style=for-the-badge" alt="9Router"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenCode-AI%20Coding%20Agent-0A0A1F?style=for-the-badge" alt="OpenCode"/>
 
 **CURRENT INTERESTS**
 
-AI-assisted coding · Local LLM · Model routing · API integration · Developer productivity
+AI-assisted coding · Model routing · Coding workflows · Developer productivity
 
 </div>
 
@@ -217,7 +244,11 @@ Linux Development · Debian Server · VMware · Database Server · Local Web Tes
 
 <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF" height="180" alt="GitHub statistics"/>
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razihafitz1-rh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF" height="180" alt="Top languages"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=razihafitz1-rh&theme=tokyonight&hide_border=true&background=0A0A1F&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub streak"/>
 
@@ -260,5 +291,4 @@ Linux Development · Debian Server · VMware · Database Server · Local Web Tes
 **`BUILDING STEP BY STEP`**
 
 </div>
-
 
