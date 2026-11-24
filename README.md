@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# `FULL STACK DEVELOPMENT × CYBERSECURITY`
+# FULL STACK DEVELOPMENT × CYBERSECURITY
 
 **JUNIOR DEVELOPER · SECURITY AUDIT LEARNER**
 
@@ -17,9 +17,11 @@
 
 ---
 
+<div align="center">
+
 ## `root@razcyber:~$ cat profile.txt`
 
-```text
+<pre align="left">
 ROLE       : Junior Full Stack Developer
 LEVEL      : Beginner
 INTEREST   : Web Development & Cybersecurity
@@ -32,129 +34,134 @@ SYSTEM     : Parrot OS, Kali Linux, Debian, Windows
 VIRTUAL    : VMware
 WORKFLOW   : Learn -> Build -> Test -> Improve
 STATUS     : Learning and building projects
-```
+</pre>
+
+</div>
 
 ---
 
-## `root@razcyber:~$ ls -la ./development-stack`
+<div align="center">
 
-### Frontend Development
+## `root@razcyber:~$ ls ./development`
+
+### FRONTEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" alt="Frontend technologies"/>
 
-### Backend Development
+### BACKEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" alt="Backend technologies"/>
 
-### Database Management
+### DATABASE MANAGEMENT
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase" alt="Database technologies"/>
 
-### DevOps & Infrastructure
+### DEVOPS & INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,git,github,bash" alt="Infrastructure technologies"/>
 
+</div>
+
 ---
 
-## `root@razcyber:~$ ls -la ./cybersecurity-tools`
+<div align="center">
 
-### 01. Information Gathering & Reconnaissance
+## `root@razcyber:~$ ls ./cybersecurity-tools`
 
-<img src="https://img.shields.io/badge/Nmap-Network%20Discovery-0A0A1F?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/WHOIS-Domain%20Information-0A0A1F?style=for-the-badge"/>
+### 01 · INFORMATION GATHERING
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Discovery-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WHOIS-Domain%20Lookup-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dig-DNS%20Lookup-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WhatWeb-Web%20Fingerprinting-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/theHarvester-OSINT-0A0A1F?style=for-the-badge"/>
 
-### 02. Web Application Security
+### 02 · WEB APPLICATION SECURITY
 
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-0A0A1F?style=for-the-badge&logo=burpsuite&logoColor=FF2BD6"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-0A0A1F?style=for-the-badge&logo=burpsuite"/>
 <img src="https://img.shields.io/badge/OWASP%20ZAP-Web%20Security-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLmap-SQL%20Injection%20Testing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nikto-Web%20Server%20Scanning-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-Web%20Server%20Testing-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ffuf-Web%20Fuzzing-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gobuster-Content%20Discovery-0A0A1F?style=for-the-badge"/>
 
-### 03. Network Analysis & Monitoring
+### 03 · NETWORK ANALYSIS
 
-<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-0A0A1F?style=for-the-badge&logo=wireshark&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/tcpdump-Network%20Capture-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-0A0A1F?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/tcpdump-Packet%20Capture-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Netcat-Network%20Utility-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Traceroute-Network%20Diagnostics-0A0A1F?style=for-the-badge"/>
 
-### 04. Security Testing & Vulnerability Assessment
+### 04 · VULNERABILITY ASSESSMENT
 
-<img src="https://img.shields.io/badge/Metasploit-Security%20Testing-0A0A1F?style=for-the-badge&logo=metasploit&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/Metasploit-Security%20Testing-0A0A1F?style=for-the-badge&logo=metasploit"/>
 <img src="https://img.shields.io/badge/Greenbone-Vulnerability%20Assessment-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenVAS-Vulnerability%20Scanning-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP%20Testing%20Guide-Web%20Security-0A0A1F?style=for-the-badge"/>
 
-### 05. Digital Forensics & System Analysis
+### 05 · DIGITAL FORENSICS
 
 <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-0A0A1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-0A0A1F?style=for-the-badge"/>
 
-### 06. Password Security & Auditing
+### 06 · PASSWORD SECURITY
 
 <img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Auditing-0A0A1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hashcat-Password%20Hash%20Auditing-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-Hash%20Auditing-0A0A1F?style=for-the-badge"/>
 
-*Tools listed above are part of my learning and exploration. Practical testing is limited to authorized systems and isolated labs.*
+</div>
 
 ---
 
-## `root@razcyber:~$ ls -la ./ai-development-tools`
+<div align="center">
 
-### AI & Coding Tools
+## `root@razcyber:~$ ls ./ai-tools`
 
-<img src="https://img.shields.io/badge/9Router-AI%20Model%20Routing-0A0A1F?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/OpenCode-AI%20Coding%20Agent-0A0A1F?style=for-the-badge&logoColor=B026FF"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20AI%20Models-0A0A1F?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+### AI & CODING ENVIRONMENT
+
+<img src="https://img.shields.io/badge/9Router-AI%20Model%20Routing-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCode-AI%20Coding%20Agent-0A0A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM-0A0A1F?style=for-the-badge&logo=ollama"/>
 <img src="https://img.shields.io/badge/OpenRouter-AI%20API-0A0A1F?style=for-the-badge"/>
 
-**Current interests:**
-- AI-assisted coding
-- Local LLM experimentation
-- Model routing and API integration
-- Developer productivity
-- AI tools for learning and debugging
+**CURRENT INTERESTS**
+
+AI-assisted coding · Local LLM · Model routing · API integration · Developer productivity
+
+</div>
 
 ---
+
+<div align="center">
 
 ## `root@razcyber:~$ ./development-workflow.sh`
 
-| Area | Learning Focus |
-|---|---|
-| Frontend | Responsive interfaces, React components |
-| Backend | PHP, Laravel, REST API fundamentals |
-| Database | SQL, relationships, database design |
-| Integration | Frontend and backend communication |
-| Deployment | Linux server and Nginx fundamentals |
-| Security | Web security concepts and basic auditing |
-| Testing | Functional and security validation |
-| Documentation | Technical notes and assessment reports |
+| AREA | LEARNING FOCUS |
+|:---:|:---|
+| FRONTEND | Responsive interfaces, React components |
+| BACKEND | PHP, Laravel, REST API fundamentals |
+| DATABASE | SQL, relationships, database design |
+| INTEGRATION | Frontend and backend communication |
+| DEPLOYMENT | Linux server and Nginx fundamentals |
+| SECURITY | Web security and basic auditing |
+| TESTING | Functional and security validation |
+| DOCUMENTATION | Technical notes and reports |
+
+</div>
 
 ---
 
+<div align="center">
+
 ## `root@razcyber:~$ ./security-audit.sh`
 
-**Security learning areas**
+**SECURITY LEARNING AREAS**
 
-- Information gathering and reconnaissance
-- Network discovery and analysis
-- HTTP and HTTPS fundamentals
-- Authentication and authorization
-- Input validation
-- SQL injection prevention
-- Cross-Site Scripting (XSS) prevention
-- API security fundamentals
-- Server configuration review
-- Vulnerability assessment
-- Security reporting and remediation
+Web application security · Authentication · Authorization · Input validation · SQL injection prevention · XSS prevention · API security · Network reconnaissance · Server configuration · Vulnerability assessment
 
-**Basic audit workflow**
+### BASIC AUDIT WORKFLOW
 
-```text
+<pre align="left">
 01. DEFINE SCOPE
        |
 02. INFORMATION GATHERING
@@ -165,18 +172,22 @@ STATUS     : Learning and building projects
        |
 05. AUTHORIZED VALIDATION
        |
-06. REPORT FINDINGS
+06. SECURITY REPORTING
        |
 07. REMEDIATION & RETESTING
-```
+</pre>
 
 All security testing is performed on systems I own or have explicit permission to assess.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `root@razcyber:~$ systemctl status home-lab`
 
-```text
+<pre align="left">
 HOME LAB ENVIRONMENT
 --------------------------------
 [READY]   Parrot OS Development
@@ -188,25 +199,21 @@ HOME LAB ENVIRONMENT
 [ACTIVE]  Security Learning
 --------------------------------
 MODE: LEARN | BUILD | TEST | IMPROVE
-```
+</pre>
 
-### Lab Infrastructure
+### LAB INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,docker,nginx" alt="Lab infrastructure"/>
 
-- Parrot OS development environment
-- Kali Linux security testing environment
-- Debian Server practice
-- VMware virtual machines
-- Database server configuration
-- Local web application testing
-- Network configuration and diagnostics
+Linux Development · Debian Server · VMware · Database Server · Local Web Testing · Network Practice
+
+</div>
 
 ---
 
-## `root@razcyber:~$ git stats`
-
 <div align="center">
+
+## `root@razcyber:~$ git stats`
 
 <img src="https://github-readme-stats.vercel.app/api?username=razihafitz1-rh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1F&title_color=00F0FF&text_color=FFFFFF&icon_color=B026FF" height="180" alt="GitHub statistics"/>
 
@@ -218,10 +225,12 @@ MODE: LEARN | BUILD | TEST | IMPROVE
 
 ---
 
+<div align="center">
+
 ## `root@razcyber:~$ cat task-queue.log`
 
-| Status | Learning Goals |
-|---|---|
+| STATUS | LEARNING GOALS |
+|:---:|:---|
 | IN PROGRESS | Improve HTML, CSS and JavaScript |
 | IN PROGRESS | Practice React and Next.js |
 | IN PROGRESS | Learn Laravel and REST APIs |
@@ -229,14 +238,16 @@ MODE: LEARN | BUILD | TEST | IMPROVE
 | IN PROGRESS | Build full-stack practice projects |
 | IN PROGRESS | Study web application security |
 | IN PROGRESS | Practice network analysis in a lab |
-| PLANNED | Create a security assessment report |
+| PLANNED | Create security assessment reports |
 | PLANNED | Learn Docker and deployment |
+
+</div>
 
 ---
 
-## `root@razcyber:~$ ./contact.sh`
-
 <div align="center">
+
+## `root@razcyber:~$ ./contact.sh`
 
 <a href="mailto:razihafitz@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-0A0A1F?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email contact"/>
