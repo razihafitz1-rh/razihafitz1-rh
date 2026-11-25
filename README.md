@@ -1,8 +1,6 @@
 
 
-# FULL STACK DEVELOPMENT × CYBERSECURITY
-
-**JUNIOR DEVELOPER · SECURITY AUDIT LEARNER**
+**FULL STACK DEVELOPER**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00F0FF&width=650&height=120&lines=%5B+OK+%5D+Frontend+environment+ready;%5B+OK+%5D+Backend+environment+initialized;%5B+OK+%5D+Database+environment+ready;%5B+OK+%5D+Security+lab+initialized;razparrot%40razcyber%3A~%24+learning..." alt="Terminal animation"/>
 
